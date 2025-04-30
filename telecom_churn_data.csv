@@ -1,0 +1,1001 @@
+cliente_id,idade,sexo,tempo_contrato_meses,servico_internet,tipo_contrato,valor_mensal,total_gasto,num_servicos,dependentes,fatura_online,seguro_dispositivo,suporte_tecnico,churn
+C1000,56,Masculino,7,Fibra,Mensal,52.52,342.2,1,Não,Não,Não,Sim,Não
+C1001,69,Masculino,9,Fibra,Mensal,23.93,228.02,2,Não,Sim,Não,Não,Sim
+C1002,46,Feminino,48,Não tem,Mensal,47.2,2394.83,3,Sim,Sim,Não,Não,Não
+C1003,32,Masculino,59,Não tem,Anual,20.64,1153.78,1,Não,Não,Sim,Sim,Não
+C1004,60,Masculino,39,Fibra,Bianual,117.84,4401.51,4,Sim,Sim,Não,Não,Sim
+C1005,25,Feminino,18,Fibra,Mensal,116.57,2282.06,2,Sim,Sim,Não,Sim,Não
+C1006,78,Masculino,59,DSL,Anual,59.52,3740.41,1,Não,Sim,Não,Sim,Sim
+C1007,38,Masculino,17,Não tem,Anual,92.84,1640.72,1,Não,Sim,Sim,Não,Não
+C1008,56,Masculino,14,DSL,Anual,54.58,700.28,2,Não,Não,Sim,Não,Sim
+C1009,75,Masculino,31,Fibra,Mensal,87.11,2656.27,2,Não,Não,Sim,Não,Não
+C1010,36,Masculino,24,Fibra,Mensal,100.54,2441.58,4,Não,Sim,Não,Sim,Não
+C1011,40,Feminino,60,DSL,Mensal,114.68,6450.63,4,Sim,Não,Sim,Não,Não
+C1012,28,Masculino,45,Fibra,Anual,60.02,2672.93,1,Não,Sim,Não,,Não
+C1013,28,Masculino,3,DSL,Anual,98.33,300.95,1,Não,Sim,Sim,Sim,Não
+C1014,41,Masculino,37,Fibra,Mensal,46.59,1664.32,2,Não,Sim,Não,Sim,Não
+C1015,70,Masculino,43,DSL,Mensal,119.03,5405.88,1,Não,Sim,Não,Sim,Não
+C1016,53,Masculino,40,Fibra,Bianual,22.58,964.7,1,Não,Sim,Sim,Sim,Não
+C1017,57,Feminino,55,DSL,Anual,80.35,4263.35,2,Não,Não,Sim,Sim,Sim
+C1018,41,Masculino,39,Fibra,Bianual,85.95,3579.09,1,Sim,Não,Sim,Não,Não
+C1019,20,Feminino,15,DSL,Anual,88.8,1226.39,1,Não,Sim,Não,Sim,Não
+C1020,39,Feminino,4,Fibra,Mensal,32.04,136.82,3,Não,Sim,Não,Sim,Não
+C1021,70,Masculino,25,DSL,Mensal,113.85,2648.58,4,Não,Não,Sim,Sim,Não
+C1022,19,Masculino,13,DSL,Anual,38.12,454.22,2,Sim,Não,Não,,Sim
+C1023,41,Masculino,33,DSL,Mensal,82.28,2792.23,3,Não,Não,Sim,Sim,Não
+C1024,61,Masculino,16,DSL,Mensal,42.27,672.52,4,Sim,Sim,Sim,Não,Sim
+C1025,47,Feminino,42,DSL,Anual,50.72,2304.02,4,Não,Não,Sim,Não,Sim
+C1026,55,Masculino,66,Não tem,Mensal,74.65,4792.09,4,Não,Sim,Não,Sim,Sim
+C1027,19,Masculino,55,Fibra,Anual,61.72,3250.09,3,Sim,Sim,,Não,Não
+C1028,77,Masculino,42,Não tem,Mensal,36.02,1513.06,3,Não,Sim,Sim,Sim,Sim
+C1029,38,Masculino,34,Fibra,Bianual,37.09,1249.95,4,Sim,Sim,Sim,Não,Sim
+C1030,50,Masculino,30,Fibra,Mensal,61.81,1796.6,1,Não,Sim,Sim,Não,Não
+C1031,29,Masculino,13,Fibra,Mensal,95.73,1292.71,1,Não,Sim,Não,Sim,Sim
+C1032,75,Feminino,13,Fibra,Anual,109.8,1501.5,3,Sim,Sim,Sim,Sim,Sim
+C1033,39,Feminino,18,DSL,Mensal,28.41,547.48,3,Sim,Não,Sim,Não,Sim
+C1034,78,Masculino,32,DSL,Anual,59.31,2077.41,3,Não,Sim,Não,Não,Não
+C1035,61,Masculino,39,DSL,Anual,30.02,1116.14,4,Sim,Sim,Sim,Sim,Não
+C1036,42,Masculino,46,DSL,Mensal,21.66,1039.42,1,Sim,Sim,Não,Não,Sim
+C1037,66,Feminino,29,Fibra,Mensal,86.17,2446.08,3,Não,Não,Não,Não,Não
+C1038,44,Masculino,62,Fibra,Mensal,80.24,5151.07,3,Não,Sim,Sim,Não,Não
+C1039,76,Feminino,62,Fibra,Mensal,36.3,2239.79,2,Não,Sim,Não,Sim,Não
+C1040,59,Masculino,57,Fibra,Bianual,43.38,2716.85,4,Sim,Sim,,Não,Não
+C1041,45,Masculino,16,Fibra,Anual,22.37,374.31,2,Sim,Não,Não,Não,Não
+C1042,77,Masculino,56,Fibra,Anual,103.49,6319.92,1,Sim,Não,Não,Sim,Não
+C1043,33,Masculino,10,DSL,Anual,117.47,1253.4,2,Sim,Sim,Sim,Não,Sim
+C1044,32,Feminino,30,DSL,Mensal,33.55,1087.6,2,Não,Sim,,Não,Sim
+C1045,79,Feminino,25,Não tem,Bianual,43.15,1146.59,2,Não,Não,Não,Não,Não
+C1046,79,Masculino,5,Não tem,Anual,106.84,529.84,4,Sim,Sim,Não,Sim,Sim
+C1047,64,Masculino,65,DSL,Anual,112.65,6958.76,1,Não,Sim,Não,Não,Não
+C1048,79,Feminino,49,Fibra,Anual,61.96,2957.3,2,Não,Sim,Não,Sim,Não
+C1049,68,Feminino,3,DSL,Mensal,25.06,67.97,4,Não,Sim,Sim,Não,Não
+C1050,61,Feminino,45,DSL,Anual,23.94,1082.47,1,Não,Sim,Sim,Sim,Não
+C1051,72,Feminino,14,Fibra,Mensal,77.39,1084.56,3,Não,Sim,Não,Não,Não
+C1052,69,Masculino,30,Fibra,Mensal,59.29,1787.68,2,Sim,Sim,Sim,Não,Sim
+C1053,74,Feminino,68,Não tem,Mensal,22.87,1702.6,1,Sim,Não,,Sim,Não
+C1054,20,Masculino,18,Fibra,Bianual,78.33,1525.97,2,Não,Sim,Sim,Não,Não
+C1055,54,Feminino,62,DSL,Anual,21.13,1221.42,3,Sim,Não,Sim,Não,Não
+C1056,68,Feminino,37,DSL,Anual,98.74,3557.58,1,Não,Sim,,Sim,Não
+C1057,24,Feminino,25,Fibra,Anual,50.64,1246.75,4,Não,Sim,Não,Não,Não
+C1058,38,Feminino,48,Fibra,Mensal,24.03,1121.27,1,Não,Sim,,Não,Não
+C1059,26,Feminino,65,Fibra,Bianual,78.84,5430.53,4,Não,Não,Não,Sim,Não
+C1060,56,Masculino,53,Fibra,Mensal,59.77,3183.04,1,Não,Não,Sim,Sim,Não
+C1061,35,Masculino,15,Fibra,Mensal,117.38,1786.09,4,Não,Sim,Não,Sim,Não
+C1062,21,Feminino,49,Não tem,Mensal,74.42,3904.04,3,Não,Não,Sim,Sim,Não
+C1063,42,Feminino,68,Fibra,Anual,47.52,3429.07,3,Sim,Sim,Não,Não,Não
+C1064,77,Masculino,12,DSL,Anual,90.94,1011.01,3,Não,Não,Não,Sim,Sim
+C1065,31,Feminino,59,Fibra,Mensal,47.15,2900.87,1,Sim,Não,Sim,Não,Não
+C1066,67,Feminino,37,Não tem,Mensal,110.42,4032.78,3,Não,Não,Não,Não,Não
+C1067,75,Masculino,61,Fibra,Anual,57.47,3361.69,2,Não,Sim,Não,Sim,Não
+C1068,26,Feminino,43,Fibra,Mensal,74.99,2934.37,3,Não,Sim,Sim,Não,Não
+C1069,43,Feminino,70,Não tem,Anual,25.06,1749.73,4,Não,Sim,Não,Não,Sim
+C1070,70,Masculino,39,Não tem,Bianual,62.61,2371.19,4,Não,Sim,Não,Não,Sim
+C1071,19,Masculino,56,Fibra,Mensal,103.24,5494.12,4,Não,Sim,Sim,Sim,Sim
+C1072,37,Masculino,63,Não tem,Mensal,100.56,6581.94,1,Sim,Sim,Sim,Sim,Sim
+C1073,45,Feminino,46,Fibra,Anual,42.43,2056.98,2,Não,Sim,Não,Não,Não
+C1074,64,Masculino,11,Fibra,Anual,42.61,444.79,3,Não,Sim,Não,Não,Não
+C1075,77,Masculino,62,Fibra,Mensal,101.73,5738.91,2,Não,Sim,Não,Não,Não
+C1076,24,Masculino,25,Fibra,Bianual,113.04,3023.12,2,Não,Sim,Não,Não,Não
+C1077,61,Masculino,71,DSL,Mensal,29.54,1891.78,4,Sim,Não,Não,Sim,Sim
+C1078,78,Masculino,52,Fibra,Mensal,65.01,3676.05,4,Não,Sim,Não,Não,Sim
+C1079,25,Masculino,4,Fibra,Anual,53.75,220.49,4,Não,Sim,Não,Sim,Sim
+C1080,64,Feminino,59,DSL,Anual,107.07,6092.05,1,Não,Não,Não,Sim,Não
+C1081,52,Feminino,20,DSL,Mensal,28.35,538.25,2,Sim,Sim,Sim,Não,Não
+C1082,31,Masculino,63,Fibra,Anual,41.11,2335.6,2,Não,Sim,Sim,Sim,Sim
+C1083,34,Masculino,54,DSL,Mensal,95.25,4871.38,1,Não,Sim,Sim,Não,Não
+C1084,53,Masculino,57,Fibra,Mensal,25.13,1328.63,1,Sim,Sim,Não,Não,Sim
+C1085,67,Feminino,41,DSL,Mensal,69.25,2902.94,1,Não,Não,Não,Sim,Não
+C1086,57,Feminino,3,DSL,Anual,64.21,179.78,2,Não,Sim,Sim,Não,Não
+C1087,21,Feminino,6,Não tem,Mensal,53.44,322.48,2,Não,Sim,Sim,Não,Não
+C1088,19,Feminino,5,Fibra,Mensal,59.46,302.66,4,Não,Sim,Não,Não,Não
+C1089,79,Feminino,5,Fibra,Mensal,72.99,350.21,4,Não,Sim,Sim,Sim,Não
+C1090,23,Feminino,54,Fibra,Anual,36.14,1770.09,2,Não,Não,Não,Sim,Sim
+C1091,71,Feminino,47,Fibra,Anual,77.2,3292.59,4,Não,Sim,Não,,Não
+C1092,59,Feminino,49,Fibra,Anual,100.54,4459.77,1,Sim,Sim,Não,Sim,Não
+C1093,21,Feminino,9,Não tem,Mensal,96.02,905.51,3,Sim,Sim,Sim,Sim,Não
+C1094,71,Masculino,20,Fibra,Anual,35.39,682.04,4,Não,Sim,Sim,Não,Não
+C1095,46,Masculino,61,Fibra,Mensal,34.92,2256.35,2,Não,Sim,Não,Sim,Não
+C1096,35,Masculino,35,DSL,Anual,46.82,1616.33,4,Sim,Não,Não,Não,Não
+C1097,43,Masculino,50,Fibra,Bianual,56.11,2779.13,4,Não,Não,Não,,Sim
+C1098,61,Feminino,62,DSL,Mensal,60.85,3782.42,4,Não,Não,Sim,Não,Não
+C1099,51,Feminino,17,Fibra,Anual,87.97,1559.21,3,Sim,Não,Não,Não,Sim
+C1100,27,Masculino,3,Fibra,Mensal,25.67,73.52,1,Não,Sim,Não,Sim,Sim
+C1101,79,Feminino,32,Fibra,Mensal,23.47,694.2,2,Sim,Sim,Não,,Não
+C1102,53,Masculino,13,Fibra,Mensal,59.19,778.1,3,Não,Não,Não,Não,Não
+C1103,31,Feminino,68,Não tem,Mensal,89.72,5889.84,2,Não,Não,Sim,Não,Sim
+C1104,48,Masculino,14,Fibra,Mensal,39.34,544.43,2,Não,Não,Sim,Não,Não
+C1105,65,Feminino,11,DSL,Anual,84.15,952.85,2,Sim,Sim,Não,Sim,Não
+C1106,32,Feminino,56,Fibra,Mensal,45.98,2571.85,3,Não,Sim,Não,Sim,Sim
+C1107,25,Masculino,67,Fibra,Anual,108.61,7451.92,1,Não,Não,Sim,Não,Não
+C1108,31,Feminino,29,Não tem,Mensal,109.57,3205.62,2,Não,Não,Sim,Não,Não
+C1109,40,Masculino,9,Fibra,Mensal,49.73,469.04,1,Sim,Não,Não,Não,Não
+C1110,77,Masculino,67,DSL,Anual,43.0,2999.66,1,Não,Sim,Sim,Não,Não
+C1111,74,Masculino,25,Não tem,Mensal,61.13,1538.7,4,Não,Sim,Sim,Não,Não
+C1112,79,Masculino,42,DSL,Mensal,44.05,1916.3,3,Não,Sim,Não,Não,Não
+C1113,57,Feminino,9,Não tem,Anual,87.24,843.82,3,Não,Não,Não,Sim,Não
+C1114,38,Feminino,40,Fibra,Mensal,102.61,4048.8,4,Não,Sim,Não,Não,Não
+C1115,33,Feminino,25,Fibra,Mensal,87.31,2144.67,4,Não,Sim,Sim,,Sim
+C1116,62,Masculino,5,Fibra,Mensal,102.44,539.27,1,Sim,Não,Não,,Não
+C1117,35,Feminino,11,DSL,Bianual,59.7,667.54,2,Não,Sim,Não,Não,Não
+C1118,64,Masculino,59,Não tem,Anual,35.63,1921.81,3,Sim,Não,Não,Não,Sim
+C1119,70,Feminino,38,Fibra,Anual,93.8,3843.93,2,Não,Sim,,Não,Não
+C1120,41,Feminino,5,DSL,Anual,56.05,253.95,2,Sim,Não,Sim,Não,Não
+C1121,43,Feminino,48,Fibra,Mensal,87.13,4390.01,4,Não,Sim,,Não,Sim
+C1122,42,Masculino,18,DSL,Mensal,47.06,890.92,2,Sim,Não,Sim,Sim,Não
+C1123,77,Feminino,70,Fibra,Anual,28.12,2146.78,1,Não,Não,,Não,Não
+C1124,77,Feminino,37,Não tem,Mensal,119.26,4019.13,4,Não,Sim,Não,Não,Não
+C1125,77,Masculino,60,DSL,Mensal,35.62,2178.6,2,Sim,Sim,Não,Não,Não
+C1126,62,Feminino,48,Fibra,Mensal,118.84,5622.0,4,Sim,Sim,Não,Sim,Não
+C1127,58,Masculino,28,Fibra,Mensal,117.73,3184.78,1,Sim,Sim,Não,Sim,Não
+C1128,46,Feminino,69,Fibra,Bianual,99.38,6295.36,1,Não,Não,,Não,Não
+C1129,32,Masculino,40,Fibra,Mensal,85.94,3480.68,2,Não,Sim,Não,Não,Sim
+C1130,62,Masculino,45,Fibra,Mensal,77.78,3485.43,4,Não,Sim,Sim,Não,Não
+C1131,18,Feminino,62,Não tem,Mensal,106.61,6087.06,2,Sim,Sim,Sim,Não,Sim
+C1132,42,Masculino,58,DSL,Bianual,48.94,2902.38,2,Não,Não,Sim,Não,Não
+C1133,24,Masculino,67,DSL,Mensal,66.77,4686.49,4,Não,Não,Não,Não,Não
+C1134,26,Masculino,56,Fibra,Mensal,81.94,4833.93,2,Não,Sim,Não,Não,Não
+C1135,41,Masculino,40,Não tem,Anual,61.12,2643.01,1,Não,Sim,Sim,Sim,Não
+C1136,18,Masculino,40,DSL,Anual,62.75,2464.55,4,Sim,Sim,Sim,Não,Sim
+C1137,61,Masculino,33,Fibra,Mensal,53.03,1908.56,4,Sim,Sim,Não,Não,Sim
+C1138,25,Feminino,6,DSL,Mensal,76.42,492.03,4,Sim,Sim,Sim,Sim,Sim
+C1139,41,Masculino,19,DSL,Mensal,105.06,1914.9,4,Sim,Sim,Não,Sim,Não
+C1140,28,Masculino,40,Fibra,Mensal,40.15,1496.56,2,Sim,Sim,Não,Sim,Não
+C1141,68,Feminino,59,Fibra,Mensal,113.44,6606.47,2,Sim,Sim,Não,Não,Sim
+C1142,34,Feminino,59,Fibra,Mensal,88.91,5142.77,1,Não,Sim,Não,Sim,Não
+C1143,25,Feminino,48,Fibra,Mensal,102.33,4986.22,3,Não,Sim,Não,,Não
+C1144,52,Feminino,41,Não tem,Mensal,75.62,3152.13,3,Não,Sim,Não,Não,Não
+C1145,52,Feminino,13,Não tem,Anual,97.95,1337.01,1,Não,Não,Não,Não,Não
+C1146,50,Feminino,45,DSL,Bianual,21.62,974.82,3,Não,Não,Não,Não,Não
+C1147,76,Feminino,53,Fibra,Anual,101.84,4970.92,1,Sim,Sim,Sim,Sim,Sim
+C1148,22,Masculino,42,Fibra,Mensal,24.01,1080.68,2,Não,Sim,Não,Não,Não
+C1149,59,Masculino,63,DSL,Mensal,108.99,6605.12,4,Sim,Não,Não,Não,Não
+C1150,56,Feminino,27,DSL,Bianual,119.2,3521.76,4,Não,Não,Não,Não,Não
+C1151,75,Masculino,38,Fibra,Mensal,49.41,1734.08,2,Não,Sim,Não,Sim,Não
+C1152,58,Masculino,60,DSL,Mensal,41.03,2687.42,4,Não,Sim,Não,Não,Sim
+C1153,45,Masculino,7,Não tem,Mensal,96.54,620.5,4,Sim,Sim,Sim,Não,Não
+C1154,24,Feminino,5,Fibra,Anual,45.3,214.32,3,Sim,Sim,Não,Não,Não
+C1155,26,Feminino,45,Fibra,Anual,106.56,4360.35,2,Não,Sim,Não,Não,Não
+C1156,25,Masculino,58,DSL,Mensal,30.28,1828.29,3,Sim,Sim,Não,Não,Não
+C1157,29,Feminino,31,Fibra,Mensal,32.6,1081.4,3,Não,Sim,Não,Não,Não
+C1158,51,Masculino,23,Fibra,Bianual,117.92,2676.4,4,Não,Sim,Sim,Não,Não
+C1159,50,Masculino,42,Fibra,Mensal,87.38,3984.49,4,Não,Sim,Não,Não,Não
+C1160,65,Masculino,10,Fibra,Anual,104.69,1065.81,2,Não,Sim,Sim,Sim,Não
+C1161,72,Masculino,32,DSL,Anual,52.43,1721.38,4,Não,Sim,Sim,Sim,Não
+C1162,40,Feminino,53,DSL,Anual,87.65,4966.38,4,Sim,Sim,Não,Sim,Sim
+C1163,79,Feminino,30,Fibra,Mensal,79.42,2285.77,2,Não,Sim,,Sim,Sim
+C1164,41,Feminino,39,Não tem,Mensal,80.32,3041.18,4,Não,Não,Não,Sim,Sim
+C1165,54,Masculino,31,Não tem,Mensal,88.25,2957.87,3,Não,Sim,Sim,Não,Não
+C1166,52,Feminino,2,Não tem,Anual,77.54,167.52,2,Sim,Não,Sim,Sim,Não
+C1167,61,Masculino,12,Fibra,Bianual,62.91,826.86,4,Não,Não,Não,Não,Não
+C1168,57,Feminino,39,Fibra,Mensal,47.59,2005.17,1,Não,Sim,Não,Sim,Não
+C1169,39,Masculino,66,Não tem,Mensal,96.86,5916.34,2,Não,Sim,,Sim,Sim
+C1170,44,Masculino,13,DSL,Bianual,42.63,590.07,2,Não,Sim,Não,Sim,Sim
+C1171,52,Masculino,46,Fibra,Anual,89.24,4031.02,1,Sim,Não,Não,Sim,Sim
+C1172,18,Feminino,27,Fibra,Anual,43.33,1284.75,4,Não,Não,Sim,Não,Não
+C1173,52,Feminino,17,Fibra,Mensal,82.53,1395.23,4,Não,Não,Sim,Não,Sim
+C1174,54,Feminino,60,Não tem,Mensal,94.71,5743.79,2,Não,Sim,Sim,Sim,Sim
+C1175,64,Feminino,64,DSL,Anual,41.87,2695.64,2,Não,Sim,Não,Não,Não
+C1176,31,Masculino,35,Fibra,Anual,25.99,877.22,4,Sim,Sim,Não,Não,Não
+C1177,20,Feminino,70,Fibra,Mensal,33.1,2120.07,4,Não,Sim,Não,Não,Sim
+C1178,18,Feminino,30,DSL,Mensal,80.6,2609.34,3,Não,Sim,Não,Não,Não
+C1179,22,Masculino,71,Não tem,Mensal,104.94,7901.77,2,Não,Sim,Não,Não,Não
+C1180,43,Masculino,63,Fibra,Mensal,24.5,1432.22,2,Não,Não,Sim,Não,Não
+C1181,72,Masculino,28,DSL,Mensal,93.42,2760.55,1,Não,Sim,Sim,Não,Não
+C1182,31,Feminino,60,Não tem,Bianual,54.13,3329.54,3,Não,Sim,Não,Sim,Sim
+C1183,56,Masculino,37,Fibra,Mensal,67.85,2464.83,4,Sim,Sim,Não,Não,Não
+C1184,44,Masculino,22,DSL,Anual,112.89,2361.4,3,Não,Não,Não,Não,Não
+C1185,26,Masculino,68,Fibra,Mensal,53.2,3877.87,4,Não,Não,Sim,Não,Sim
+C1186,32,Feminino,20,DSL,Anual,66.53,1383.87,4,Não,Sim,Não,Não,Não
+C1187,32,Masculino,68,DSL,Bianual,21.37,1467.03,3,Não,Sim,Sim,Não,Não
+C1188,43,Feminino,64,DSL,Mensal,28.16,1841.73,2,Não,Sim,Sim,Sim,Não
+C1189,59,Feminino,17,DSL,Mensal,45.86,715.86,4,Não,Não,Não,Não,Sim
+C1190,77,Masculino,12,Fibra,Mensal,22.79,272.05,3,Não,Sim,Sim,Não,Não
+C1191,30,Masculino,22,Não tem,Mensal,83.14,1717.03,1,Sim,Sim,Não,Não,Sim
+C1192,68,Feminino,17,DSL,Anual,62.64,1002.77,3,Não,Sim,Sim,Não,Não
+C1193,49,Masculino,10,Fibra,Bianual,74.81,772.23,1,Sim,Sim,Não,Não,Sim
+C1194,56,Masculino,65,DSL,Mensal,37.46,2635.17,4,Não,Não,Não,Sim,Sim
+C1195,66,Feminino,22,DSL,Mensal,49.59,1069.98,3,Sim,Sim,Sim,Não,Não
+C1196,69,Feminino,50,Fibra,Mensal,86.38,4066.55,3,Não,Sim,Não,Não,Não
+C1197,78,Masculino,14,Não tem,Anual,116.53,1679.95,1,Não,Sim,Sim,Não,Não
+C1198,49,Feminino,64,Não tem,Mensal,25.04,1721.53,3,Não,Sim,Não,Sim,Não
+C1199,21,Masculino,47,Fibra,Mensal,109.04,5379.4,3,Não,Não,Sim,Não,Sim
+C1200,47,Masculino,29,Não tem,Anual,77.69,2419.17,4,Não,Sim,Sim,Não,Não
+C1201,54,Masculino,36,Fibra,Anual,76.39,2770.15,3,Sim,Não,Sim,Não,Não
+C1202,40,Feminino,52,Fibra,Mensal,70.03,3825.0,2,Não,Não,Sim,,Sim
+C1203,56,Masculino,7,Fibra,Anual,26.94,175.0,1,Não,Sim,Não,Não,Não
+C1204,62,Masculino,29,Não tem,Mensal,28.99,815.2,3,Sim,Sim,Sim,Sim,Sim
+C1205,32,Masculino,11,DSL,Mensal,80.09,861.53,1,Não,Sim,Sim,Sim,Não
+C1206,60,Feminino,33,Fibra,Anual,54.1,1789.33,1,Não,Não,Não,Não,Não
+C1207,46,Feminino,6,Fibra,Anual,111.73,727.91,1,Não,Sim,Sim,Não,Não
+C1208,53,Feminino,32,DSL,Mensal,60.66,2086.43,3,Sim,Sim,Não,Sim,Não
+C1209,30,Feminino,51,Fibra,Mensal,34.33,1622.85,3,Não,Sim,Não,Sim,Não
+C1210,49,Feminino,58,Não tem,Mensal,91.47,4958.07,1,Sim,Não,Não,Sim,Sim
+C1211,24,Masculino,26,Não tem,Mensal,49.34,1246.32,2,Sim,Sim,Não,Não,Não
+C1212,76,Feminino,46,DSL,Mensal,72.55,3197.63,1,Não,Sim,Não,Sim,Sim
+C1213,68,Feminino,29,Não tem,Mensal,89.78,2663.38,2,Não,Sim,Sim,,Não
+C1214,39,Feminino,4,Fibra,Mensal,110.03,475.57,1,Não,Sim,Não,Não,Não
+C1215,45,Masculino,13,Não tem,Anual,99.22,1409.12,4,Sim,Não,Não,Sim,Não
+C1216,19,Feminino,39,DSL,Anual,87.64,3522.96,1,Não,Sim,Não,Não,Não
+C1217,59,Feminino,15,DSL,Anual,87.96,1408.63,1,Não,Não,Não,Sim,Não
+C1218,62,Masculino,29,Fibra,Mensal,114.59,3339.86,3,Não,Sim,Não,Não,Não
+C1219,79,Feminino,29,Não tem,Bianual,49.58,1353.95,2,Não,Sim,Não,Sim,Sim
+C1220,74,Masculino,32,Fibra,Anual,20.11,646.7,4,Sim,Sim,Não,Não,Não
+C1221,70,Masculino,2,Fibra,Anual,47.2,95.44,2,Não,Sim,Não,Não,Sim
+C1222,23,Masculino,47,Fibra,Anual,41.79,2059.37,4,Não,Sim,Não,Sim,Não
+C1223,45,Masculino,22,DSL,Bianual,86.18,1789.74,1,Sim,Sim,Sim,Sim,Sim
+C1224,45,Masculino,27,DSL,Mensal,83.37,2191.7,3,Sim,Sim,Não,Não,Não
+C1225,61,Feminino,67,DSL,Mensal,79.35,5171.87,3,Sim,Sim,Não,Sim,Sim
+C1226,61,Masculino,56,Não tem,Anual,21.62,1321.97,2,Sim,Sim,Sim,Não,Sim
+C1227,37,Masculino,21,Fibra,Anual,92.88,1928.61,3,Não,Não,Sim,Não,Não
+C1228,47,Feminino,47,DSL,Anual,52.35,2585.98,2,Não,Sim,Não,Não,Sim
+C1229,79,Masculino,59,Fibra,Mensal,86.51,5360.12,2,Sim,Sim,Sim,Não,Não
+C1230,28,Feminino,6,Não tem,Mensal,75.66,432.67,4,Sim,Sim,Sim,Não,Sim
+C1231,75,Feminino,19,Não tem,Mensal,54.27,1045.95,2,Não,Não,Não,Não,Não
+C1232,72,Feminino,57,DSL,Bianual,33.46,2057.62,4,Não,Não,Sim,Não,Não
+C1233,45,Masculino,69,DSL,Mensal,29.44,2021.28,3,Não,Sim,Não,Sim,Não
+C1234,42,Masculino,3,Fibra,Mensal,103.15,337.0,2,Não,Não,Sim,Sim,Sim
+C1235,56,Masculino,1,Fibra,Mensal,111.84,105.45,2,Não,Sim,Sim,Não,Não
+C1236,79,Feminino,58,Não tem,Mensal,84.98,4509.06,1,Sim,Sim,Não,Não,Não
+C1237,50,Masculino,38,Fibra,Anual,30.34,1243.18,2,Sim,Não,Não,Não,Não
+C1238,18,Masculino,15,Fibra,Anual,60.2,965.79,2,Não,Não,Sim,Sim,Não
+C1239,74,Masculino,34,Fibra,Anual,92.89,3469.41,1,Não,Sim,Sim,Não,Não
+C1240,44,Feminino,61,Não tem,Mensal,97.98,6191.22,1,Não,Não,Não,Sim,Sim
+C1241,79,Feminino,35,Fibra,Anual,31.82,1210.97,3,Não,Sim,Sim,Sim,Sim
+C1242,74,Masculino,64,Fibra,Mensal,20.0,1363.7,2,Não,Não,Sim,Não,Sim
+C1243,69,Masculino,25,DSL,Anual,91.21,2437.33,3,Sim,Sim,Sim,Sim,Sim
+C1244,30,Masculino,24,Não tem,Mensal,55.66,1354.31,3,Não,Sim,Não,Não,Sim
+C1245,58,Masculino,12,Fibra,Mensal,45.45,532.57,1,Sim,Sim,Não,Sim,Não
+C1246,20,Feminino,18,Fibra,Anual,21.29,416.53,4,Sim,Sim,Não,Não,Não
+C1247,56,Feminino,15,Fibra,Bianual,74.03,1095.37,3,Não,Sim,Não,Não,Não
+C1248,23,Feminino,27,Fibra,Mensal,105.12,2860.28,4,Não,Sim,Não,Sim,Sim
+C1249,25,Feminino,60,Fibra,Anual,115.76,6870.75,2,Não,Sim,Não,,Não
+C1250,44,Masculino,46,DSL,Mensal,76.57,3567.88,1,Não,Sim,Não,Não,Não
+C1251,26,Masculino,17,DSL,Mensal,71.45,1207.48,2,Sim,Sim,Sim,Não,Não
+C1252,79,Masculino,53,DSL,Mensal,28.51,1374.42,2,Sim,Sim,Não,Não,Sim
+C1253,54,Feminino,8,Fibra,Mensal,74.89,644.9,1,Não,Sim,Não,,Sim
+C1254,50,Masculino,27,Não tem,Mensal,58.0,1548.58,2,Não,Não,Não,Não,Sim
+C1255,68,Feminino,46,Fibra,Mensal,80.71,3778.7,1,Não,Não,Sim,Não,Não
+C1256,59,Feminino,50,Não tem,Mensal,58.87,2731.09,4,Não,Não,Sim,Não,Não
+C1257,61,Masculino,71,DSL,Bianual,44.03,2815.64,2,Não,Sim,Não,Não,Sim
+C1258,41,Masculino,3,Fibra,Mensal,29.5,83.99,1,Não,Não,Não,Sim,Sim
+C1259,32,Masculino,64,DSL,Anual,51.49,3430.2,3,Sim,Sim,Não,Sim,Não
+C1260,76,Feminino,44,Fibra,Mensal,29.66,1200.43,2,Não,Sim,Sim,Não,Não
+C1261,71,Masculino,53,DSL,Anual,37.69,2160.93,4,Não,Sim,Não,Não,Não
+C1262,49,Feminino,24,Fibra,Mensal,118.73,2687.11,1,Sim,Não,Não,Sim,Não
+C1263,49,Masculino,60,Fibra,Mensal,64.41,3636.27,2,Não,Sim,Não,Não,Não
+C1264,41,Feminino,3,Não tem,Mensal,73.19,205.58,2,Não,Sim,Não,Sim,Sim
+C1265,58,Feminino,20,Fibra,Mensal,107.36,1938.48,2,Não,Sim,Não,Sim,Não
+C1266,69,Masculino,46,Não tem,Mensal,119.56,5798.73,4,Sim,Não,Não,Sim,Não
+C1267,66,Feminino,15,Fibra,Anual,78.27,1262.11,1,Não,Sim,Não,Sim,Não
+C1268,79,Feminino,25,DSL,Anual,101.25,2589.04,3,Sim,Sim,Não,Não,Sim
+C1269,66,Masculino,71,DSL,Anual,52.69,3507.7,3,Não,Sim,Sim,Não,Não
+C1270,75,Feminino,17,DSL,Anual,50.57,822.77,3,Sim,Sim,Sim,Sim,Não
+C1271,69,Masculino,9,Fibra,Mensal,60.27,539.82,1,Sim,Sim,Não,Sim,Não
+C1272,29,Feminino,38,Fibra,Mensal,87.25,3616.78,3,Não,Sim,Não,Não,Sim
+C1273,79,Masculino,48,Fibra,Mensal,88.22,4020.59,4,Não,Não,Não,Sim,Não
+C1274,56,Masculino,60,Fibra,Mensal,51.52,3234.41,1,Sim,Sim,Não,Não,Não
+C1275,19,Feminino,63,DSL,Mensal,33.32,2073.74,2,Sim,Sim,Sim,Sim,Não
+C1276,20,Feminino,2,Não tem,Mensal,83.24,159.75,4,Não,Sim,,Não,Não
+C1277,66,Feminino,11,Não tem,Mensal,32.83,357.95,2,Não,Sim,Não,Sim,Sim
+C1278,54,Feminino,64,DSL,Mensal,77.85,4555.12,3,Não,Sim,Sim,Sim,Sim
+C1279,66,Feminino,21,DSL,Anual,89.34,1988.22,4,Sim,Sim,Sim,Sim,Não
+C1280,73,Masculino,18,DSL,Anual,90.06,1537.85,1,Não,Sim,Não,Sim,Não
+C1281,34,Feminino,64,Fibra,Mensal,95.35,6377.51,4,Sim,Não,Sim,Não,Não
+C1282,76,Masculino,38,Não tem,Bianual,107.29,3725.05,2,Sim,Sim,Não,Não,Não
+C1283,66,Masculino,32,DSL,Bianual,70.0,2443.88,1,Não,Sim,Sim,Sim,Não
+C1284,19,Feminino,11,DSL,Mensal,93.02,960.4,4,Não,Não,Não,Sim,Não
+C1285,19,Masculino,45,Fibra,Mensal,81.92,3968.59,4,Não,Sim,Não,Não,Não
+C1286,45,Masculino,33,Fibra,Mensal,38.66,1354.74,4,Não,Não,Não,Não,Não
+C1287,71,Masculino,41,Fibra,Bianual,22.57,1011.96,4,Não,Sim,Não,Não,Sim
+C1288,40,Masculino,8,Não tem,Anual,48.45,385.89,1,Não,Sim,Não,Não,Não
+C1289,54,Feminino,11,DSL,Mensal,64.3,739.47,2,Não,Não,Sim,Não,Não
+C1290,49,Masculino,51,Fibra,Mensal,81.71,4059.45,4,Sim,Sim,Sim,Não,Não
+C1291,50,Feminino,41,Não tem,Mensal,105.0,4033.24,1,Sim,Sim,Não,Não,Não
+C1292,18,Feminino,17,Fibra,Mensal,39.62,665.87,2,Não,Não,Não,Não,Sim
+C1293,36,Masculino,46,Fibra,Mensal,32.55,1397.21,4,Não,Sim,Não,Sim,Não
+C1294,79,Feminino,32,Fibra,Anual,116.35,4082.15,2,Sim,Sim,Sim,,Não
+C1295,19,Feminino,54,DSL,Anual,30.8,1528.9,2,Não,Sim,Sim,Sim,Não
+C1296,70,Feminino,20,Não tem,Anual,67.85,1381.21,1,Sim,Não,Sim,Não,Sim
+C1297,61,Masculino,33,Fibra,Anual,78.56,2658.05,2,Não,Não,Não,Não,Sim
+C1298,43,Feminino,40,Não tem,Anual,74.14,2988.19,1,Sim,Sim,Não,Não,Não
+C1299,49,Feminino,32,Fibra,Mensal,28.6,944.89,4,Não,Sim,Não,,Não
+C1300,23,Feminino,2,Não tem,Anual,25.7,47.45,2,Não,Não,Não,Não,Não
+C1301,49,Masculino,33,DSL,Mensal,30.55,1019.24,2,Sim,Sim,Sim,Não,Sim
+C1302,72,Feminino,30,Não tem,Anual,78.56,2256.5,3,Não,Sim,Sim,Sim,Não
+C1303,21,Masculino,33,Fibra,Mensal,74.43,2672.42,4,Não,Não,Sim,Não,Sim
+C1304,72,Masculino,26,Não tem,Anual,43.37,1186.72,4,Não,Não,Não,Não,Sim
+C1305,28,Masculino,22,DSL,Mensal,83.78,2017.34,3,Não,Não,Sim,Não,Não
+C1306,73,Masculino,66,Fibra,Mensal,102.01,6109.96,3,Não,Sim,Não,Não,Não
+C1307,76,Masculino,38,Não tem,Mensal,24.16,878.63,1,Sim,Sim,Sim,Não,Sim
+C1308,34,Masculino,46,Fibra,Mensal,69.81,3015.64,1,Não,Sim,Não,Não,Sim
+C1309,55,Feminino,15,Não tem,Anual,88.93,1203.53,2,Sim,Sim,Não,Não,Sim
+C1310,41,Masculino,44,Fibra,Anual,45.23,1887.56,2,Sim,Sim,Não,Não,Não
+C1311,22,Feminino,49,DSL,Mensal,50.78,2577.19,2,Sim,Não,Não,Sim,Não
+C1312,69,Feminino,61,DSL,Mensal,81.36,4696.04,2,Não,Sim,Não,Não,Não
+C1313,51,Masculino,67,Fibra,Mensal,109.79,7369.18,1,Não,Não,Sim,Sim,Não
+C1314,23,Feminino,6,Fibra,Mensal,100.99,652.94,4,Sim,Sim,Não,Sim,Não
+C1315,39,Feminino,9,Fibra,Mensal,78.31,732.1,2,Sim,Sim,Não,Não,Sim
+C1316,28,Feminino,6,Fibra,Anual,93.02,546.36,4,Não,Sim,Sim,Não,Não
+C1317,65,Feminino,32,Fibra,Mensal,56.48,1761.26,2,Sim,Sim,Sim,Não,Não
+C1318,33,Masculino,41,DSL,Mensal,84.1,3417.57,3,Sim,Sim,Não,Sim,Sim
+C1319,50,Feminino,8,Fibra,Mensal,66.62,498.54,2,Sim,Não,Não,Sim,Sim
+C1320,26,Masculino,50,Fibra,Mensal,38.99,2001.75,2,Não,Não,Não,Sim,Sim
+C1321,77,Feminino,62,DSL,Mensal,90.17,5438.65,2,Não,Sim,Não,Sim,Sim
+C1322,76,Feminino,62,Fibra,Anual,75.65,5020.84,1,Não,Sim,Sim,Não,Não
+C1323,23,Masculino,7,Não tem,Mensal,55.86,411.08,3,Não,Não,Sim,Sim,Não
+C1324,33,Feminino,4,Não tem,Mensal,111.13,454.35,2,Não,Sim,Não,Não,Não
+C1325,46,Feminino,6,DSL,Mensal,22.09,128.94,2,Não,Sim,Sim,,Não
+C1326,20,Feminino,58,DSL,Mensal,51.58,2818.08,4,Não,Sim,Não,Não,Não
+C1327,37,Masculino,22,Não tem,Mensal,25.69,596.4,3,Não,Não,Não,Sim,Não
+C1328,77,Feminino,26,Fibra,Bianual,96.65,2506.07,2,Sim,Sim,Sim,Sim,Sim
+C1329,76,Masculino,3,Fibra,Anual,90.21,255.73,4,Sim,Sim,Não,Sim,Não
+C1330,53,Feminino,41,Fibra,Mensal,53.14,2045.91,4,Não,Não,Sim,Não,Não
+C1331,36,Masculino,60,DSL,Mensal,87.57,4902.59,1,Não,Sim,Não,Não,Sim
+C1332,43,Masculino,14,Fibra,Mensal,59.59,880.5,4,Não,Sim,Sim,Não,Sim
+C1333,20,Feminino,12,DSL,Mensal,95.63,1085.36,2,Não,Sim,Não,Não,Não
+C1334,36,Feminino,12,Não tem,Anual,65.42,789.22,1,Não,Não,Sim,Sim,Não
+C1335,37,Masculino,13,Não tem,Anual,61.23,788.28,1,Sim,Sim,Não,Não,Sim
+C1336,49,Masculino,25,DSL,Mensal,113.47,2881.92,2,Não,Não,Não,Não,Não
+C1337,24,Feminino,45,Fibra,Mensal,45.09,2182.1,3,Não,Sim,Sim,Sim,Não
+C1338,69,Masculino,19,Não tem,Mensal,32.04,653.53,4,Não,Sim,Não,Sim,Não
+C1339,58,Feminino,55,DSL,Anual,78.45,4272.53,1,Não,Não,Sim,Sim,Sim
+C1340,50,Feminino,45,Fibra,Anual,116.93,4751.84,3,Não,Sim,Não,Sim,Não
+C1341,57,Feminino,8,Fibra,Mensal,57.78,455.44,2,Sim,Sim,Sim,Não,Não
+C1342,56,Feminino,53,Não tem,Mensal,26.2,1418.09,4,Não,Sim,Não,Sim,Sim
+C1343,35,Masculino,55,DSL,Anual,53.93,3000.42,4,Sim,Sim,Sim,,Não
+C1344,57,Feminino,32,Não tem,Mensal,70.59,2327.25,1,Não,Sim,Não,Sim,Não
+C1345,18,Masculino,51,Não tem,Mensal,36.19,1718.0,4,Não,Sim,Sim,Não,Sim
+C1346,28,Feminino,44,DSL,Mensal,85.81,3886.29,4,Não,Sim,Não,Não,Sim
+C1347,45,Masculino,70,DSL,Anual,119.77,7851.78,4,Não,Não,Sim,Sim,Sim
+C1348,74,Feminino,18,Fibra,Mensal,65.17,1231.84,4,Não,Sim,Não,Sim,Não
+C1349,42,Masculino,22,Fibra,Mensal,55.47,1181.07,2,Não,Não,Não,Sim,Sim
+C1350,67,Masculino,37,Fibra,Anual,60.07,2315.89,3,Não,Sim,Sim,,Não
+C1351,40,Feminino,56,DSL,Mensal,31.51,1605.0,2,Não,Sim,Não,Sim,Não
+C1352,48,Feminino,59,DSL,Mensal,108.33,6273.69,2,Não,Sim,Sim,Não,Sim
+C1353,47,Feminino,3,Não tem,Mensal,61.48,192.0,1,Não,Sim,Sim,Não,Não
+C1354,59,Feminino,28,Fibra,Mensal,58.73,1554.61,4,Sim,Sim,Não,Não,Não
+C1355,52,Masculino,35,DSL,Anual,85.97,3186.65,2,Não,Não,Não,Sim,Não
+C1356,24,Feminino,61,DSL,Mensal,64.2,4018.63,4,Não,Não,Não,Não,Sim
+C1357,77,Masculino,54,DSL,Mensal,84.82,4660.49,2,Sim,Não,Sim,Não,Não
+C1358,33,Masculino,63,DSL,Mensal,26.14,1598.58,2,Sim,Sim,Sim,Sim,Não
+C1359,43,Feminino,7,Fibra,Anual,101.37,707.1,1,Sim,Não,Sim,Sim,Não
+C1360,65,Masculino,49,DSL,Anual,114.05,5697.26,3,Não,Sim,Não,Sim,Sim
+C1361,74,Masculino,31,Fibra,Mensal,84.88,2616.79,3,Não,Sim,Não,Sim,Não
+C1362,69,Masculino,58,Fibra,Mensal,115.46,6962.29,2,Não,Não,Não,Sim,Não
+C1363,77,Masculino,61,Fibra,Anual,35.14,2115.12,1,Sim,Sim,Sim,Não,Sim
+C1364,66,Feminino,24,DSL,Mensal,67.74,1528.95,4,Não,Sim,Sim,Não,Não
+C1365,19,Feminino,20,Não tem,Anual,80.18,1511.85,4,Sim,Sim,Sim,Não,Não
+C1366,18,Feminino,37,DSL,Anual,78.17,2606.42,2,Não,Sim,Sim,Sim,Não
+C1367,65,Feminino,4,DSL,Anual,60.15,231.02,3,Não,Não,Sim,Não,Não
+C1368,79,Masculino,20,DSL,Mensal,53.81,1129.78,1,Sim,Sim,Não,Sim,Não
+C1369,29,Masculino,60,DSL,Mensal,32.68,2076.16,3,Não,Não,Não,Não,Não
+C1370,22,Feminino,24,Fibra,Anual,59.17,1335.58,4,Sim,Sim,Não,Sim,Não
+C1371,54,Feminino,50,Fibra,Mensal,36.27,1980.0,3,Não,Sim,Não,Sim,Não
+C1372,49,Feminino,49,Fibra,Mensal,93.44,4580.76,4,Não,Sim,Sim,Não,Não
+C1373,76,Masculino,51,Fibra,Anual,40.88,2258.75,1,Não,Sim,Não,Sim,Não
+C1374,72,Feminino,36,Fibra,Anual,25.86,969.46,1,Sim,Sim,Sim,Não,Não
+C1375,26,Feminino,66,Fibra,Mensal,75.24,5186.75,2,Sim,Não,Não,Não,Não
+C1376,58,Feminino,34,Fibra,Mensal,79.52,2479.3,2,Não,Não,Não,Não,Não
+C1377,52,Masculino,36,Não tem,Mensal,107.19,3642.74,3,Sim,Não,Sim,Não,Sim
+C1378,36,Masculino,6,Fibra,Anual,77.7,420.4,1,Não,Não,Não,Não,Sim
+C1379,65,Masculino,39,Fibra,Bianual,54.55,2219.41,1,Não,Não,Sim,Sim,Não
+C1380,33,Masculino,42,Fibra,Mensal,100.3,4081.54,2,Sim,Sim,Não,Não,Sim
+C1381,20,Masculino,58,DSL,Mensal,74.03,4539.9,4,Sim,Não,Não,Não,Sim
+C1382,37,Masculino,12,Fibra,Anual,27.93,324.36,3,Não,Sim,Sim,Sim,Não
+C1383,41,Masculino,3,Fibra,Mensal,76.59,244.44,3,Não,Sim,Não,,Sim
+C1384,71,Masculino,18,DSL,Mensal,110.8,1847.09,2,Não,Sim,Não,Não,Sim
+C1385,73,Feminino,40,Fibra,Bianual,59.63,2229.39,1,Não,Sim,Não,Não,Não
+C1386,50,Feminino,21,Fibra,Mensal,49.63,1009.06,2,Não,Sim,Sim,Não,Não
+C1387,41,Masculino,15,Fibra,Anual,34.35,505.82,2,Sim,Não,Não,Sim,Não
+C1388,69,Masculino,26,Fibra,Mensal,35.14,885.99,2,Não,Sim,Sim,Não,Não
+C1389,28,Feminino,8,Fibra,Mensal,63.28,532.93,2,Não,Sim,Sim,Sim,Não
+C1390,66,Masculino,42,Fibra,Anual,79.57,3072.55,4,Sim,Sim,,Não,Não
+C1391,25,Masculino,44,Não tem,Mensal,28.06,1197.9,4,Sim,Sim,Sim,Não,Não
+C1392,53,Masculino,14,DSL,Bianual,113.96,1703.05,1,Sim,Sim,Sim,Sim,Sim
+C1393,55,Feminino,2,DSL,Mensal,95.51,174.47,2,Sim,Sim,Não,Não,Sim
+C1394,57,Feminino,37,Fibra,Mensal,78.66,3167.9,4,Não,Sim,Sim,Não,Não
+C1395,37,Feminino,69,Não tem,Mensal,102.84,7786.14,1,Não,Sim,Sim,Não,Não
+C1396,79,Feminino,38,Fibra,Mensal,28.02,977.14,2,Sim,Não,Sim,Não,Não
+C1397,52,Feminino,41,Fibra,Mensal,67.68,2659.04,3,Não,Não,Não,Não,Não
+C1398,65,Masculino,62,DSL,Mensal,83.01,5015.28,4,Não,Sim,Não,Não,Não
+C1399,79,Feminino,60,Fibra,Mensal,102.87,6513.39,1,Não,Sim,Sim,Sim,Não
+C1400,42,Masculino,14,Fibra,Mensal,98.35,1403.32,3,Não,Sim,Sim,Sim,Não
+C1401,52,Masculino,2,DSL,Anual,47.71,98.18,2,Sim,Não,Sim,Sim,Sim
+C1402,42,Feminino,70,Não tem,Anual,114.09,8397.61,2,Não,Sim,Sim,Não,Não
+C1403,46,Feminino,17,Fibra,Anual,32.43,509.19,2,Não,Sim,Sim,Não,Sim
+C1404,35,Masculino,28,DSL,Mensal,107.51,3210.89,4,Sim,Não,Não,Sim,Não
+C1405,63,Masculino,66,Não tem,Mensal,117.09,8045.74,1,Sim,Sim,,,Não
+C1406,35,Masculino,35,Fibra,Anual,37.72,1340.62,3,Sim,Sim,Não,Não,Não
+C1407,19,Feminino,5,Fibra,Mensal,92.21,496.99,1,Sim,Sim,Sim,Não,Não
+C1408,71,Feminino,65,Fibra,Mensal,24.03,1624.52,4,Não,Não,Não,Sim,Não
+C1409,52,Feminino,40,Fibra,Anual,60.54,2277.13,1,Não,Não,Não,Não,Não
+C1410,33,Feminino,56,Fibra,Anual,71.63,3954.92,4,Não,Não,Não,Sim,Não
+C1411,78,Feminino,36,Não tem,Mensal,78.06,2806.81,2,Não,Sim,Sim,Sim,Não
+C1412,58,Masculino,45,DSL,Mensal,113.59,4656.84,3,Não,Sim,Sim,Não,Não
+C1413,53,Feminino,23,DSL,Anual,87.23,2188.72,2,Não,Não,Não,Sim,Não
+C1414,50,Masculino,47,Fibra,Mensal,68.13,2964.24,1,Não,Não,Não,Sim,Sim
+C1415,21,Masculino,31,Não tem,Anual,100.97,3253.68,2,Sim,Sim,Não,Não,Não
+C1416,50,Masculino,11,Não tem,Anual,115.05,1267.13,3,Não,Não,Não,Sim,Não
+C1417,31,Feminino,10,Não tem,Anual,22.21,201.03,2,Não,Sim,Não,Não,Não
+C1418,38,Feminino,67,Fibra,Mensal,118.25,8595.78,3,Sim,Sim,Sim,Sim,Não
+C1419,65,Feminino,14,DSL,Mensal,28.61,428.72,3,Não,Sim,Não,Sim,Não
+C1420,37,Masculino,10,Fibra,Anual,101.44,1019.32,2,Não,Sim,Sim,Sim,Não
+C1421,73,Masculino,1,Fibra,Anual,48.03,45.43,4,Não,Não,,Sim,Não
+C1422,25,Masculino,5,Fibra,Anual,33.22,153.53,1,Não,Sim,Não,Não,Não
+C1423,24,Masculino,20,DSL,Mensal,63.99,1244.83,4,Não,Sim,Sim,Não,Sim
+C1424,20,Masculino,8,DSL,Mensal,84.4,642.17,4,Não,Não,Não,Não,Não
+C1425,34,Masculino,43,Fibra,Anual,58.1,2501.64,2,Não,Não,Sim,,Sim
+C1426,50,Feminino,1,Fibra,Anual,25.46,27.83,1,Não,Sim,Não,Sim,Sim
+C1427,65,Feminino,57,Fibra,Bianual,79.95,4625.46,1,Não,Sim,,Não,Não
+C1428,29,Feminino,64,Fibra,Anual,110.24,7605.58,4,Não,Sim,Não,Não,Sim
+C1429,76,Feminino,28,Fibra,Mensal,58.32,1682.24,2,Não,Sim,Sim,Não,Não
+C1430,68,Masculino,37,Fibra,Anual,41.63,1532.68,1,Não,Não,Não,Sim,Não
+C1431,39,Masculino,47,DSL,Anual,64.26,3234.42,4,Não,Não,Não,Não,Não
+C1432,72,Feminino,37,Fibra,Mensal,24.84,913.82,1,Sim,Sim,Não,Não,Não
+C1433,39,Masculino,49,Fibra,Anual,102.05,5369.11,2,Sim,Sim,Sim,Sim,Sim
+C1434,63,Feminino,44,Fibra,Mensal,102.63,4327.48,2,Sim,Sim,,Não,Não
+C1435,47,Feminino,56,Não tem,Mensal,78.8,4085.21,2,Não,Não,Não,,Sim
+C1436,55,Feminino,28,DSL,Anual,55.31,1658.73,1,Sim,Sim,Não,Não,Não
+C1437,55,Masculino,6,DSL,Mensal,99.98,610.37,3,Sim,Sim,Não,Não,Não
+C1438,62,Feminino,61,Fibra,Mensal,75.47,4961.92,1,Não,Sim,Não,Não,Não
+C1439,68,Feminino,20,DSL,Mensal,102.59,2231.47,3,Não,Sim,Sim,Não,Não
+C1440,71,Feminino,2,Fibra,Mensal,83.15,151.45,2,Não,Sim,Sim,Sim,Não
+C1441,25,Masculino,37,DSL,Mensal,98.44,3642.99,4,Sim,Sim,Sim,Não,Não
+C1442,44,Masculino,20,Não tem,Mensal,79.86,1557.26,3,Não,Não,Não,Não,Não
+C1443,44,Feminino,26,DSL,Bianual,61.41,1636.85,2,Não,Não,Não,Sim,Sim
+C1444,51,Masculino,29,Não tem,Mensal,115.79,3555.08,2,Não,Não,Sim,Não,Não
+C1445,38,Masculino,1,DSL,Mensal,74.11,70.86,3,Não,Sim,Não,Não,Não
+C1446,47,Masculino,35,Fibra,Mensal,80.51,2849.86,4,Não,Sim,,Sim,Não
+C1447,50,Masculino,70,Não tem,Anual,42.05,3066.38,2,Sim,Sim,Não,Sim,Sim
+C1448,45,Masculino,59,Fibra,Mensal,82.57,4515.45,3,Sim,Sim,Sim,Sim,Não
+C1449,64,Masculino,69,DSL,Anual,77.16,5658.46,4,Sim,Não,Sim,Não,Não
+C1450,50,Masculino,33,Fibra,Anual,38.48,1296.79,4,Não,Sim,Sim,Não,Sim
+C1451,22,Masculino,51,Fibra,Anual,25.96,1442.99,2,Não,Sim,Sim,Não,Não
+C1452,77,Masculino,12,Fibra,Mensal,80.44,934.3,1,Não,Não,Sim,Não,Não
+C1453,78,Masculino,20,Fibra,Anual,96.37,1776.35,1,Sim,Não,Sim,Não,Não
+C1454,65,Feminino,53,Fibra,Mensal,72.34,3839.01,2,Não,Sim,Não,Não,Não
+C1455,36,Feminino,43,DSL,Bianual,42.68,1683.21,4,Não,Sim,Sim,Sim,Não
+C1456,21,Masculino,50,Fibra,Anual,86.65,4739.34,2,Não,Sim,Não,Não,Sim
+C1457,52,Feminino,29,Fibra,Mensal,28.01,737.35,3,Não,Sim,Sim,Não,Não
+C1458,66,Feminino,57,DSL,Mensal,64.18,3843.74,1,Sim,Sim,Sim,Não,Sim
+C1459,34,Masculino,39,Fibra,Mensal,36.34,1424.38,3,Não,Sim,Sim,Não,Não
+C1460,61,Masculino,56,DSL,Anual,38.45,2096.62,2,Não,Não,,Sim,Sim
+C1461,45,Masculino,43,DSL,Mensal,40.23,1579.68,2,Sim,Sim,Não,Não,Sim
+C1462,47,Feminino,50,Não tem,Mensal,58.67,3005.18,4,Sim,Sim,Sim,Sim,Não
+C1463,46,Feminino,23,DSL,Mensal,25.12,587.61,4,Não,Sim,Não,Não,Sim
+C1464,63,Masculino,44,Fibra,Anual,59.78,2515.05,4,Não,Sim,Não,Sim,Sim
+C1465,70,Masculino,38,DSL,Anual,71.17,2926.35,3,Não,Não,Não,Não,Não
+C1466,23,Masculino,23,Fibra,Anual,68.33,1510.02,4,Sim,Sim,Não,Sim,Sim
+C1467,52,Feminino,45,Fibra,Anual,58.28,2596.23,2,Não,Sim,Não,Sim,Sim
+C1468,77,Feminino,52,DSL,Mensal,103.91,5450.61,4,Não,Sim,Sim,Sim,Não
+C1469,58,Feminino,50,Fibra,Mensal,34.53,1588.46,1,Não,Não,Não,Sim,Não
+C1470,54,Feminino,8,DSL,Anual,70.57,613.36,4,Não,Sim,Sim,Sim,Não
+C1471,41,Masculino,1,Não tem,Mensal,26.2,25.54,3,Sim,Não,Sim,Não,Não
+C1472,46,Masculino,8,Não tem,Mensal,27.12,198.77,1,Não,Sim,Não,Não,Não
+C1473,66,Masculino,29,Não tem,Mensal,77.39,2193.72,1,Não,Sim,Não,Sim,Não
+C1474,63,Masculino,5,Fibra,Mensal,76.6,390.68,1,Não,Sim,Não,Sim,Não
+C1475,70,Feminino,47,Fibra,Mensal,107.8,5080.43,3,Não,Não,Sim,Não,Sim
+C1476,48,Feminino,34,DSL,Anual,75.79,2677.12,2,Não,Não,Não,Não,Não
+C1477,52,Masculino,65,Fibra,Mensal,115.98,6868.49,4,Não,Sim,Sim,Não,Não
+C1478,77,Masculino,55,DSL,Mensal,24.87,1308.91,1,Não,Sim,Sim,Não,Não
+C1479,50,Feminino,43,DSL,Mensal,29.8,1363.21,1,Não,Sim,Sim,Sim,Sim
+C1480,69,Masculino,30,DSL,Anual,24.41,670.77,1,Não,Sim,Não,Sim,Sim
+C1481,78,Feminino,17,Fibra,Mensal,38.53,701.58,2,Não,Sim,Sim,Sim,Não
+C1482,38,Masculino,26,Fibra,Anual,74.13,1770.07,2,Não,Não,Não,Não,Sim
+C1483,49,Masculino,8,Fibra,Anual,84.56,721.73,3,Não,Não,Não,Não,Não
+C1484,40,Masculino,47,Fibra,Mensal,24.56,1122.18,2,Sim,Sim,Não,Não,Não
+C1485,50,Masculino,46,Não tem,Bianual,114.6,5389.9,4,Não,Sim,Não,Sim,Não
+C1486,20,Masculino,68,Fibra,Bianual,104.22,6594.96,3,Sim,Não,Não,Sim,Sim
+C1487,35,Masculino,33,Fibra,Anual,49.66,1496.59,3,Não,Não,Não,Sim,Não
+C1488,42,Masculino,1,Fibra,Anual,27.72,26.15,4,Não,Sim,Não,Não,Não
+C1489,59,Feminino,19,DSL,Mensal,36.99,650.5,4,Não,Sim,Sim,Sim,Não
+C1490,48,Feminino,31,DSL,Mensal,32.69,975.37,4,Não,Sim,Não,Não,Sim
+C1491,71,Feminino,14,Fibra,Mensal,32.33,453.92,3,Não,Sim,Não,Sim,Sim
+C1492,75,Feminino,53,Fibra,Mensal,71.86,3876.19,3,Não,Sim,,Não,Não
+C1493,20,Feminino,48,Fibra,Bianual,44.58,2263.89,3,Sim,Sim,Sim,Não,Sim
+C1494,57,Masculino,69,Fibra,Mensal,55.81,3971.22,4,Não,Sim,Não,Não,Não
+C1495,63,Masculino,62,DSL,Anual,118.95,7535.32,4,Sim,Sim,Sim,Não,Não
+C1496,41,Feminino,66,DSL,Anual,88.43,5733.41,1,Não,Sim,Não,Não,Não
+C1497,67,Masculino,64,Fibra,Anual,114.9,7315.08,2,Não,Sim,Sim,,Não
+C1498,49,Feminino,70,Fibra,Bianual,34.26,2357.2,1,Não,Não,Não,Não,Sim
+C1499,64,Feminino,63,Não tem,Mensal,58.21,3918.19,4,Sim,Não,Sim,Não,Sim
+C1500,39,Masculino,33,Fibra,Mensal,75.47,2356.02,3,Sim,Sim,Não,Não,Sim
+C1501,40,Masculino,41,DSL,Mensal,27.68,1022.69,4,Não,Sim,Não,Não,Não
+C1502,19,Masculino,48,Fibra,Mensal,20.42,1009.82,2,Não,Não,Não,,Não
+C1503,44,Feminino,13,Fibra,Mensal,87.04,1064.19,1,Não,Sim,Não,Não,Sim
+C1504,59,Masculino,31,Fibra,Mensal,84.18,2813.19,1,Não,Sim,Sim,Sim,Não
+C1505,19,Feminino,68,DSL,Anual,61.08,4451.7,3,Não,Sim,Sim,Sim,Não
+C1506,43,Feminino,4,Não tem,Mensal,68.96,252.49,1,Sim,Sim,Sim,Não,Não
+C1507,34,Feminino,19,Fibra,Mensal,61.54,1077.21,1,Não,Sim,Não,Não,Sim
+C1508,57,Masculino,70,Fibra,Anual,22.4,1566.49,4,Não,Não,Sim,Não,Sim
+C1509,50,Masculino,13,Fibra,Mensal,53.54,711.22,1,Sim,Sim,Sim,Não,Sim
+C1510,26,Feminino,23,Fibra,Mensal,37.71,828.28,1,Não,Sim,Não,Não,Não
+C1511,60,Masculino,1,Fibra,Anual,29.84,31.13,1,Sim,Não,Não,Não,Sim
+C1512,71,Masculino,54,Fibra,Anual,115.67,6364.75,3,Não,Sim,Não,Sim,Não
+C1513,65,Masculino,71,DSL,Anual,79.94,5476.89,3,Sim,Sim,Sim,Não,Não
+C1514,56,Feminino,15,Fibra,Mensal,92.87,1260.81,4,Não,Sim,Sim,Não,Não
+C1515,46,Feminino,65,Fibra,Anual,51.54,3517.71,1,Sim,Sim,Não,Sim,Não
+C1516,59,Masculino,71,Não tem,Anual,59.31,3970.77,3,Não,Sim,Sim,Não,Sim
+C1517,72,Feminino,15,Fibra,Mensal,43.69,699.19,3,Não,Sim,Não,Não,Não
+C1518,43,Masculino,21,Não tem,Anual,29.7,613.76,4,Não,Sim,,Sim,Não
+C1519,52,Masculino,19,Fibra,Anual,37.9,731.2,2,Não,Sim,Não,Sim,Não
+C1520,67,Masculino,60,Não tem,Mensal,99.75,6431.42,1,Não,Sim,Sim,Não,Não
+C1521,42,Masculino,33,DSL,Mensal,87.75,3106.34,3,Sim,Sim,Não,Sim,Não
+C1522,41,Feminino,49,Não tem,Bianual,74.69,3565.77,4,Não,Sim,Não,Sim,Sim
+C1523,30,Feminino,35,Não tem,Anual,67.51,2225.28,4,Sim,Sim,,Sim,Sim
+C1524,77,Feminino,44,Fibra,Mensal,112.24,5210.33,4,Não,Sim,Sim,Não,Sim
+C1525,75,Masculino,11,Não tem,Anual,27.27,295.96,3,Não,Não,Sim,Não,Não
+C1526,24,Masculino,66,Fibra,Mensal,48.06,2976.59,1,Não,Sim,Sim,Não,Sim
+C1527,74,Masculino,46,Fibra,Mensal,54.99,2734.14,2,Não,Sim,Não,Sim,Não
+C1528,53,Feminino,9,Fibra,Mensal,98.24,830.78,1,Sim,Não,,Não,Não
+C1529,62,Masculino,3,DSL,Bianual,119.25,323.82,4,Sim,Sim,Sim,Sim,Não
+C1530,37,Feminino,26,Fibra,Bianual,44.07,1035.89,4,Sim,Sim,Não,Sim,Não
+C1531,18,Feminino,48,DSL,Mensal,107.43,5282.79,2,Não,Não,Sim,Não,Não
+C1532,25,Feminino,66,DSL,Mensal,103.06,7021.9,1,Sim,Não,Não,Sim,Sim
+C1533,63,Feminino,70,DSL,Mensal,42.47,2860.55,4,Sim,Sim,Não,Não,Sim
+C1534,33,Feminino,28,Não tem,Bianual,59.93,1617.63,4,Não,Sim,Sim,Não,Não
+C1535,31,Feminino,26,Fibra,Bianual,60.97,1534.33,1,Não,Sim,Sim,Sim,Sim
+C1536,29,Masculino,25,Fibra,Anual,117.82,3051.63,4,Não,Não,Sim,Não,Sim
+C1537,68,Masculino,12,Fibra,Anual,38.09,416.69,1,Não,Sim,Não,Não,Não
+C1538,40,Feminino,5,Fibra,Anual,99.92,542.48,4,Sim,Sim,Não,Não,Sim
+C1539,32,Feminino,48,Fibra,Mensal,53.42,2421.86,1,Não,Não,Não,Sim,Não
+C1540,45,Masculino,37,Fibra,Mensal,93.09,3788.54,2,Não,Sim,Sim,,Não
+C1541,51,Feminino,44,Fibra,Mensal,62.0,2548.78,4,Sim,Não,Não,Sim,Não
+C1542,19,Feminino,15,Não tem,Anual,77.84,1231.01,2,Sim,Sim,Sim,Não,Não
+C1543,49,Masculino,43,DSL,Anual,103.26,4194.56,4,Não,Sim,Não,Sim,Não
+C1544,40,Feminino,48,Fibra,Mensal,100.42,4416.08,4,Não,Sim,Sim,Não,Sim
+C1545,39,Feminino,70,DSL,Bianual,106.64,8024.56,3,Sim,Não,Não,Sim,Sim
+C1546,68,Feminino,46,Fibra,Mensal,25.96,1279.84,1,Não,Sim,,Sim,Não
+C1547,42,Masculino,43,Fibra,Mensal,89.21,3762.05,2,Não,Sim,Não,Não,Não
+C1548,75,Masculino,21,DSL,Anual,34.0,742.9,2,Não,Sim,Não,,Não
+C1549,79,Masculino,23,Fibra,Anual,61.58,1432.5,2,Não,Não,Sim,Não,Não
+C1550,78,Feminino,47,Fibra,Anual,74.86,3766.79,1,Não,Não,Sim,Não,Sim
+C1551,39,Feminino,15,Não tem,Mensal,60.27,870.61,3,Não,Sim,Não,Sim,Não
+C1552,75,Masculino,25,Não tem,Mensal,71.96,1807.52,2,Não,Sim,Sim,Não,Não
+C1553,75,Feminino,36,DSL,Anual,119.65,4294.8,1,Não,Não,Sim,Não,Não
+C1554,39,Feminino,51,DSL,Mensal,33.52,1659.57,4,Não,Sim,Não,Sim,Não
+C1555,66,Feminino,15,DSL,Mensal,87.55,1416.07,2,Não,Sim,Não,Não,Não
+C1556,69,Feminino,68,Fibra,Anual,59.6,3781.97,2,Não,Sim,Sim,Não,Não
+C1557,59,Feminino,21,Fibra,Mensal,33.3,650.28,3,Não,Não,Sim,Não,Não
+C1558,23,Masculino,13,Fibra,Anual,35.87,473.48,2,Sim,Sim,Sim,Não,Sim
+C1559,32,Feminino,19,Fibra,Anual,114.93,2252.45,2,Não,Sim,Não,Não,Não
+C1560,71,Masculino,34,DSL,Mensal,107.96,3446.45,4,Não,Sim,Não,Sim,Sim
+C1561,60,Feminino,68,Fibra,Mensal,110.7,7363.07,1,Não,Sim,Não,Sim,Sim
+C1562,77,Masculino,52,Não tem,Anual,119.15,6749.16,1,Sim,Sim,Não,Não,Não
+C1563,54,Feminino,27,Não tem,Anual,40.83,1046.54,3,Não,Sim,,Sim,Não
+C1564,50,Masculino,29,DSL,Anual,55.54,1664.89,4,Não,Sim,Não,Sim,Sim
+C1565,25,Feminino,28,DSL,Anual,86.92,2550.65,1,Sim,Sim,Não,Não,Não
+C1566,70,Masculino,35,Não tem,Anual,68.38,2368.47,4,Não,Sim,Sim,Não,Sim
+C1567,77,Feminino,8,Fibra,Bianual,61.84,538.01,1,Sim,Não,Não,Sim,Não
+C1568,61,Masculino,16,DSL,Mensal,55.78,934.72,4,Sim,Não,Não,Não,Não
+C1569,61,Feminino,36,Fibra,Mensal,79.38,2833.63,3,Não,Não,Não,Não,Não
+C1570,22,Masculino,30,DSL,Mensal,77.56,2359.07,2,Não,Sim,Não,Sim,Não
+C1571,56,Masculino,18,Fibra,Mensal,36.15,675.77,3,Não,Sim,Sim,Não,Não
+C1572,21,Feminino,2,Não tem,Mensal,67.17,136.82,1,Sim,Sim,Sim,Não,Não
+C1573,23,Feminino,49,Não tem,Mensal,75.35,3971.79,3,Não,Não,Não,Não,Não
+C1574,62,Masculino,4,Fibra,Bianual,77.03,299.3,2,Sim,Não,Sim,Não,Não
+C1575,49,Feminino,7,Fibra,Mensal,41.01,275.58,3,Sim,Não,Não,,Não
+C1576,69,Masculino,39,Não tem,Mensal,94.23,3464.64,1,Sim,Sim,Não,Não,Não
+C1577,47,Masculino,13,Fibra,Mensal,22.52,265.7,1,Não,Sim,Não,Sim,Não
+C1578,64,Masculino,31,Não tem,Mensal,55.48,1562.69,3,Não,Sim,Não,Não,Sim
+C1579,52,Feminino,71,DSL,Mensal,98.02,7474.49,2,Não,Sim,Não,Não,Sim
+C1580,72,Masculino,63,Fibra,Mensal,76.39,4984.28,3,Não,Sim,Não,,Não
+C1581,57,Masculino,56,Fibra,Mensal,46.12,2665.64,2,Sim,Não,Não,Sim,Não
+C1582,69,Feminino,42,Fibra,Anual,89.5,3845.19,4,Não,Sim,Sim,Sim,Não
+C1583,33,Feminino,61,DSL,Anual,76.74,5008.09,2,Não,Sim,Sim,Sim,Não
+C1584,30,Feminino,42,Fibra,Anual,99.62,4167.53,4,Não,Sim,Sim,Não,Não
+C1585,67,Feminino,56,DSL,Anual,93.5,5623.89,3,Sim,Não,Sim,Sim,Sim
+C1586,77,Masculino,36,Fibra,Mensal,81.01,2834.38,2,Não,Sim,Sim,Não,Não
+C1587,59,Masculino,68,DSL,Anual,68.82,5079.14,4,Não,Sim,Sim,Sim,Não
+C1588,47,Masculino,7,Não tem,Anual,33.32,242.51,4,Não,Não,Não,Não,Não
+C1589,36,Masculino,54,Não tem,Mensal,46.13,2370.04,4,Não,Sim,Não,Sim,Não
+C1590,34,Feminino,1,Fibra,Anual,61.91,62.7,1,Sim,Sim,Sim,Não,Sim
+C1591,73,Masculino,44,Não tem,Mensal,79.93,3540.15,3,Não,Sim,Não,Não,Não
+C1592,36,Masculino,45,DSL,Anual,71.37,2979.06,4,Sim,Sim,Não,Não,Não
+C1593,45,Feminino,47,DSL,Bianual,48.82,2336.41,2,Não,Não,Sim,Não,Sim
+C1594,75,Masculino,13,Não tem,Mensal,20.65,258.51,4,Não,Não,Não,Não,Não
+C1595,72,Masculino,22,Fibra,Anual,69.62,1394.51,1,Sim,Sim,Não,Não,Não
+C1596,43,Masculino,21,Fibra,Anual,48.56,1111.26,3,Não,Sim,Sim,Sim,Não
+C1597,54,Masculino,9,Não tem,Bianual,93.46,864.94,1,Não,Sim,Não,Sim,Sim
+C1598,43,Masculino,26,Fibra,Mensal,22.39,626.02,1,Sim,Sim,Sim,Não,Não
+C1599,70,Masculino,9,Não tem,Anual,78.48,731.19,1,Não,Sim,Não,Não,Não
+C1600,79,Feminino,15,Não tem,Mensal,114.15,1663.27,2,Sim,Sim,Sim,Não,Não
+C1601,40,Feminino,10,Fibra,Mensal,37.44,375.35,3,Não,Sim,Não,Sim,Não
+C1602,26,Masculino,42,Não tem,Mensal,67.16,2919.87,3,Não,Não,Não,,Não
+C1603,29,Masculino,24,Fibra,Bianual,29.14,763.74,2,Não,Sim,Não,Sim,Não
+C1604,70,Feminino,49,DSL,Anual,82.57,3846.6,3,Não,Sim,Sim,Sim,Não
+C1605,18,Masculino,26,DSL,Anual,75.05,2097.64,1,Não,Sim,Não,Sim,Não
+C1606,75,Masculino,37,Não tem,Bianual,60.74,2437.99,3,Não,Não,Não,Sim,Sim
+C1607,75,Masculino,68,Fibra,Mensal,72.14,5072.72,2,Sim,Sim,Não,Sim,Sim
+C1608,18,Feminino,50,Fibra,Mensal,109.66,5955.93,1,Não,Sim,Não,Não,Sim
+C1609,64,Masculino,24,DSL,Mensal,39.63,931.69,2,Não,Sim,Não,Sim,Sim
+C1610,51,Feminino,19,DSL,Mensal,22.26,461.26,4,Sim,Não,,Não,Sim
+C1611,49,Masculino,60,DSL,Mensal,106.17,6628.55,1,Não,Sim,Não,Sim,Sim
+C1612,79,Feminino,39,Fibra,Mensal,77.71,2753.08,1,Não,Não,Não,Não,Sim
+C1613,71,Feminino,18,Fibra,Mensal,109.07,2123.02,3,Não,Não,Não,Não,Não
+C1614,65,Masculino,19,Fibra,Mensal,79.69,1509.41,1,Sim,Não,Não,Sim,Sim
+C1615,42,Feminino,36,Não tem,Mensal,101.02,3607.86,2,Sim,Sim,,Não,Não
+C1616,57,Masculino,55,Fibra,Mensal,62.97,3509.39,3,Sim,Sim,Não,Sim,Sim
+C1617,62,Feminino,69,Fibra,Bianual,94.99,6094.7,4,Não,Sim,Não,Não,Não
+C1618,70,Masculino,47,Não tem,Anual,111.3,5198.84,2,Sim,Não,Sim,Sim,Não
+C1619,18,Masculino,49,Fibra,Bianual,77.21,4033.84,4,Não,Sim,Não,Não,Não
+C1620,33,Feminino,33,Não tem,Mensal,38.08,1134.87,4,Sim,Sim,Não,Não,Não
+C1621,78,Masculino,21,DSL,Mensal,46.88,939.77,4,Não,Sim,Sim,Sim,Sim
+C1622,56,Masculino,22,Não tem,Anual,39.86,789.66,1,Não,Sim,Não,Não,Não
+C1623,22,Feminino,48,Fibra,Mensal,44.69,2108.96,2,Não,Sim,Sim,Sim,Não
+C1624,39,Masculino,37,Fibra,Mensal,50.64,1959.24,2,Sim,Sim,Sim,Não,Não
+C1625,46,Masculino,15,DSL,Mensal,75.51,1200.33,1,Não,Sim,,,Não
+C1626,72,Feminino,35,Não tem,Mensal,78.8,3003.57,3,Sim,Não,Sim,Não,Não
+C1627,20,Feminino,71,DSL,Mensal,62.65,4544.68,4,Não,Sim,Sim,Sim,Não
+C1628,29,Masculino,32,Fibra,Mensal,81.54,2481.23,2,Não,Sim,Não,Não,Sim
+C1629,43,Masculino,11,DSL,Anual,28.16,336.04,1,Sim,Sim,Sim,Não,Não
+C1630,33,Feminino,10,DSL,Mensal,28.78,303.65,4,Não,Sim,Não,Sim,Sim
+C1631,68,Feminino,57,DSL,Mensal,37.18,2150.81,3,Não,Não,Não,Sim,Não
+C1632,54,Masculino,25,DSL,Anual,71.81,1865.49,3,Sim,Sim,Sim,Sim,Sim
+C1633,39,Feminino,2,Não tem,Mensal,41.4,89.83,4,Não,Sim,Sim,Não,Sim
+C1634,74,Masculino,64,DSL,Mensal,48.33,3224.51,3,Sim,Sim,Não,Sim,Não
+C1635,46,Masculino,35,Fibra,Anual,60.03,2045.74,2,Não,Não,Não,Não,Não
+C1636,31,Masculino,7,Fibra,Mensal,101.19,738.51,2,Não,Sim,Sim,Sim,Não
+C1637,45,Masculino,18,Fibra,Mensal,21.39,349.62,2,Sim,Não,Não,Sim,Sim
+C1638,22,Masculino,67,Fibra,Mensal,84.94,5561.7,3,Não,Sim,Sim,Não,Sim
+C1639,64,Feminino,42,Fibra,Mensal,86.89,3581.01,2,Não,Sim,Não,Não,Não
+C1640,66,Feminino,39,Fibra,Mensal,99.87,3635.4,1,Não,Sim,Sim,Não,Não
+C1641,47,Feminino,41,Fibra,Anual,113.28,4201.48,2,Não,Não,Sim,Não,Não
+C1642,63,Feminino,24,Fibra,Mensal,22.01,489.51,2,Não,Sim,Sim,Não,Não
+C1643,79,Masculino,60,Não tem,Mensal,35.38,2188.45,3,Não,Não,Não,Sim,Não
+C1644,69,Masculino,46,Não tem,Mensal,108.62,5298.6,2,Não,Sim,Não,Sim,Não
+C1645,22,Masculino,19,Fibra,Mensal,65.85,1373.31,4,Não,Sim,Não,Não,Não
+C1646,29,Masculino,68,Não tem,Anual,76.46,5039.52,1,Não,Sim,Sim,Não,Não
+C1647,33,Feminino,42,DSL,Mensal,86.3,3696.64,3,Não,Não,Sim,Não,Não
+C1648,43,Masculino,32,Fibra,Mensal,87.91,3059.07,1,Não,Sim,Sim,Sim,Não
+C1649,43,Masculino,39,Fibra,Mensal,113.17,4119.72,4,Não,Não,Não,Sim,Não
+C1650,65,Feminino,36,DSL,Mensal,119.69,4496.4,3,Não,Não,Não,Sim,Não
+C1651,38,Feminino,36,DSL,Mensal,92.02,3481.65,3,Não,Não,Não,Não,Sim
+C1652,56,Feminino,3,DSL,Anual,48.72,134.14,2,Não,Sim,,Não,Sim
+C1653,53,Feminino,8,Fibra,Mensal,107.98,926.25,1,Não,Sim,Não,Não,Não
+C1654,50,Masculino,70,Fibra,Mensal,24.92,1853.64,4,Não,Não,Sim,Sim,Sim
+C1655,79,Masculino,41,Fibra,Mensal,43.11,1602.57,4,Sim,Sim,Não,Não,Sim
+C1656,47,Feminino,68,Fibra,Anual,109.74,6852.03,3,Não,Sim,Sim,,Não
+C1657,54,Masculino,13,Fibra,Mensal,45.62,539.58,2,Não,Sim,Não,Sim,Não
+C1658,40,Masculino,49,Fibra,Anual,42.07,1993.3,3,Não,Sim,Sim,Não,Não
+C1659,75,Masculino,60,Não tem,Anual,33.81,2032.37,3,Sim,Sim,Não,Sim,Não
+C1660,27,Feminino,2,Não tem,Anual,105.91,213.19,3,Sim,Sim,Não,Sim,Não
+C1661,71,Masculino,60,Fibra,Mensal,70.01,4005.41,3,Não,Sim,,Não,Não
+C1662,22,Feminino,5,Não tem,Mensal,87.49,473.46,4,Não,Sim,Não,Não,Não
+C1663,53,Masculino,44,Fibra,Anual,43.91,1881.14,4,Sim,Sim,Não,Não,Não
+C1664,51,Masculino,27,Fibra,Bianual,95.8,2351.5,3,Não,Sim,Não,Não,Não
+C1665,69,Masculino,32,Fibra,Anual,96.0,2949.26,3,Não,Sim,,Sim,Não
+C1666,48,Feminino,21,DSL,Mensal,51.26,1083.16,2,Sim,Sim,Sim,,Sim
+C1667,27,Masculino,8,Não tem,Mensal,61.07,479.59,3,Não,Sim,Não,Não,Sim
+C1668,75,Feminino,50,DSL,Mensal,40.97,1955.84,4,Não,Sim,Não,Não,Não
+C1669,36,Feminino,67,Fibra,Anual,117.66,7301.95,1,Não,Sim,Sim,Não,Sim
+C1670,75,Feminino,44,DSL,Mensal,84.56,3958.14,4,Não,Não,Não,Sim,Não
+C1671,49,Masculino,58,Fibra,Mensal,113.45,7233.04,2,Não,Sim,Sim,,Não
+C1672,18,Masculino,3,Não tem,Anual,50.34,145.87,4,Não,Não,Sim,Não,Não
+C1673,73,Masculino,70,DSL,Mensal,98.19,6710.57,1,Não,Sim,Sim,Sim,Não
+C1674,22,Masculino,2,Fibra,Anual,96.59,197.74,3,Sim,Sim,Sim,Não,Não
+C1675,62,Feminino,44,DSL,Mensal,89.17,4094.89,1,Sim,Sim,Não,Sim,Sim
+C1676,21,Feminino,2,DSL,Mensal,116.56,228.09,3,Não,Sim,Não,Sim,Não
+C1677,33,Feminino,35,Fibra,Mensal,59.36,2245.86,3,Não,Sim,Não,Sim,Não
+C1678,41,Masculino,30,DSL,Anual,33.07,1004.01,4,Sim,Sim,Não,Não,Não
+C1679,33,Feminino,8,Fibra,Mensal,87.17,690.44,4,Não,Sim,Sim,Sim,Não
+C1680,72,Masculino,22,DSL,Mensal,92.93,2104.43,4,Sim,Sim,Não,Não,Sim
+C1681,19,Feminino,44,Não tem,Bianual,77.51,3719.29,2,Não,Sim,Não,Não,Sim
+C1682,66,Masculino,58,Não tem,Mensal,40.68,2498.44,4,Não,Não,Não,Sim,Sim
+C1683,45,Masculino,36,DSL,Mensal,70.45,2302.88,2,Não,Sim,Não,Não,Não
+C1684,49,Feminino,69,DSL,Mensal,51.22,3415.65,4,Não,Sim,Não,Não,Não
+C1685,44,Feminino,31,Fibra,Mensal,62.75,1933.79,3,Sim,Sim,Não,Não,Não
+C1686,37,Feminino,47,DSL,Anual,84.52,3825.08,2,Não,Sim,Não,Não,Não
+C1687,41,Feminino,55,Fibra,Mensal,94.52,5406.74,1,Sim,Não,Sim,Sim,Não
+C1688,29,Masculino,62,Fibra,Mensal,43.22,2854.5,2,Não,Sim,Sim,Sim,Não
+C1689,67,Feminino,30,Fibra,Mensal,60.53,1899.92,2,Sim,Sim,Não,Não,Sim
+C1690,52,Feminino,55,Fibra,Anual,46.92,2833.15,1,Não,Não,Não,Sim,Sim
+C1691,77,Feminino,16,DSL,Mensal,39.86,608.75,2,Não,Sim,Não,Não,Não
+C1692,50,Masculino,12,Fibra,Mensal,98.34,1268.58,3,Não,Sim,,Não,Não
+C1693,50,Masculino,17,DSL,Mensal,110.93,1986.37,4,Não,Não,Sim,Sim,Não
+C1694,78,Feminino,16,Fibra,Mensal,57.02,887.17,1,Não,Sim,Sim,Não,Não
+C1695,68,Masculino,12,Fibra,Mensal,95.13,1195.01,4,Sim,Sim,Não,Sim,Não
+C1696,60,Feminino,8,DSL,Mensal,109.7,808.11,3,Sim,Sim,Não,Sim,Sim
+C1697,54,Masculino,3,Fibra,Anual,104.61,331.99,1,Não,Sim,,Sim,Sim
+C1698,29,Masculino,16,Fibra,Mensal,38.28,616.44,4,Sim,Sim,,Não,Não
+C1699,20,Masculino,30,DSL,Bianual,115.63,3324.8,4,Sim,Não,,Sim,Não
+C1700,18,Masculino,23,Fibra,Bianual,57.67,1367.73,3,Não,Sim,Não,Não,Sim
+C1701,50,Feminino,5,Não tem,Mensal,53.92,277.24,4,Não,Não,Não,Não,Sim
+C1702,57,Feminino,65,Fibra,Mensal,26.24,1606.5,3,Não,Não,Sim,Não,Sim
+C1703,27,Feminino,30,Fibra,Mensal,68.62,1865.26,2,Não,Sim,Não,Não,Não
+C1704,60,Masculino,21,DSL,Anual,30.9,640.29,3,Não,Sim,Não,Não,Não
+C1705,61,Feminino,70,Fibra,Mensal,44.85,3183.15,2,Sim,Sim,Não,Sim,Sim
+C1706,46,Feminino,22,Fibra,Mensal,51.69,1222.83,1,Não,Não,Sim,Não,Sim
+C1707,30,Feminino,32,Fibra,Mensal,100.88,3504.63,4,Não,Não,Não,Não,Sim
+C1708,29,Masculino,33,Fibra,Anual,107.55,3569.6,3,Não,Sim,Sim,Não,Não
+C1709,48,Masculino,16,Não tem,Anual,50.25,844.81,3,Sim,Sim,Sim,Não,Sim
+C1710,63,Masculino,38,Fibra,Mensal,105.87,3974.22,4,Não,Sim,Não,Não,Não
+C1711,19,Feminino,14,DSL,Anual,105.72,1552.92,4,Sim,Não,Sim,Não,Sim
+C1712,78,Feminino,36,Não tem,Mensal,96.47,3267.88,1,Sim,Sim,Não,Não,Sim
+C1713,68,Feminino,23,Fibra,Mensal,34.67,776.85,1,Sim,Sim,Sim,Não,Não
+C1714,67,Masculino,66,Não tem,Anual,89.03,6033.72,3,Não,Não,Não,Não,Não
+C1715,52,Masculino,2,Fibra,Mensal,114.5,206.93,1,Não,Sim,Sim,Sim,Sim
+C1716,40,Feminino,65,Não tem,Mensal,88.25,5991.47,2,Não,Sim,Sim,Não,Não
+C1717,34,Masculino,67,Fibra,Mensal,53.16,3800.74,1,Não,Sim,Sim,Não,Não
+C1718,43,Masculino,52,DSL,Anual,70.06,3569.63,1,Não,Sim,Não,Não,Não
+C1719,25,Masculino,62,Fibra,Anual,84.57,5188.75,3,Sim,Sim,Não,Não,Não
+C1720,46,Masculino,23,Fibra,Anual,71.06,1749.21,2,Sim,Não,Sim,Não,Não
+C1721,43,Feminino,26,DSL,Anual,32.0,877.87,1,Não,Sim,Não,Sim,Não
+C1722,27,Masculino,68,DSL,Mensal,51.21,3334.74,2,Não,Sim,,Não,Sim
+C1723,43,Masculino,55,Fibra,Mensal,100.24,5319.11,2,Não,Sim,Não,Não,Não
+C1724,79,Masculino,6,Fibra,Mensal,106.14,659.62,2,Sim,Sim,Sim,Sim,Não
+C1725,51,Masculino,35,DSL,Mensal,33.73,1195.47,4,Sim,Sim,Não,Não,Sim
+C1726,68,Feminino,22,DSL,Mensal,115.24,2364.01,4,Sim,Não,Sim,Não,Sim
+C1727,58,Feminino,43,Não tem,Bianual,52.88,2187.4,4,Não,Não,Sim,,Sim
+C1728,24,Masculino,15,DSL,Mensal,86.23,1396.92,4,Não,Sim,Não,Sim,Não
+C1729,21,Masculino,60,Não tem,Mensal,95.18,5925.73,3,Não,Sim,Não,Não,Não
+C1730,75,Masculino,12,DSL,Mensal,101.19,1332.3,1,Não,Sim,Sim,Não,Não
+C1731,70,Masculino,49,Fibra,Mensal,114.57,5913.73,4,Não,Não,Sim,Não,Sim
+C1732,67,Masculino,42,Fibra,Bianual,51.29,2344.6,3,Não,Sim,Não,Sim,Não
+C1733,62,Masculino,38,DSL,Mensal,105.85,3793.99,1,Sim,Não,Não,Não,Não
+C1734,28,Feminino,45,DSL,Mensal,33.17,1573.7,4,Não,Sim,Sim,,Não
+C1735,46,Masculino,35,Fibra,Anual,90.5,2863.56,1,Não,Não,Não,Não,Não
+C1736,73,Feminino,30,Fibra,Mensal,94.2,2922.51,4,Sim,Não,Sim,Não,Não
+C1737,53,Feminino,30,Não tem,Mensal,87.77,2616.92,3,Não,Não,Sim,Sim,Não
+C1738,42,Masculino,6,DSL,Mensal,45.23,263.06,2,Não,Sim,Não,Não,Não
+C1739,38,Feminino,67,Fibra,Mensal,107.3,7710.17,2,Não,Sim,Sim,Não,Não
+C1740,78,Feminino,7,Fibra,Bianual,36.89,276.53,1,Não,Sim,Sim,Não,Não
+C1741,74,Feminino,52,Fibra,Anual,25.36,1192.73,3,Não,Não,Não,Não,Não
+C1742,53,Feminino,14,Fibra,Mensal,91.75,1312.63,2,Não,Sim,Não,Não,Sim
+C1743,27,Feminino,15,Fibra,Anual,67.55,986.47,4,Sim,Não,Sim,Sim,Sim
+C1744,54,Feminino,21,Fibra,Mensal,104.91,2165.95,2,Sim,Não,Não,,Sim
+C1745,26,Masculino,35,DSL,Mensal,58.34,2177.5,1,Sim,Sim,Não,Sim,Não
+C1746,41,Feminino,66,Fibra,Mensal,36.83,2338.33,1,Sim,Não,,Sim,Não
+C1747,52,Feminino,2,Não tem,Mensal,103.64,225.65,3,Não,Sim,Não,Não,Sim
+C1748,66,Feminino,35,Não tem,Mensal,74.89,2453.2,1,Não,Sim,Sim,Não,Sim
+C1749,52,Masculino,20,Fibra,Anual,38.92,803.73,2,Sim,Sim,Não,Não,Não
+C1750,65,Feminino,10,DSL,Bianual,92.04,952.08,2,Não,Sim,Não,Não,Não
+C1751,53,Masculino,25,Fibra,Mensal,71.11,1689.64,2,Sim,Não,Não,Não,Não
+C1752,35,Feminino,66,Não tem,Mensal,80.43,5122.32,2,Não,Sim,Sim,Não,Não
+C1753,66,Masculino,25,Fibra,Mensal,66.09,1762.88,3,Sim,Sim,Não,Não,Não
+C1754,56,Masculino,54,DSL,Mensal,102.87,5845.84,4,Não,Sim,Não,Sim,Não
+C1755,49,Feminino,33,DSL,Mensal,102.96,3281.54,4,Sim,Não,Sim,Não,Não
+C1756,41,Feminino,36,Fibra,Mensal,90.94,3296.07,3,Não,Sim,Sim,Não,Sim
+C1757,40,Masculino,14,Fibra,Anual,30.54,390.08,1,Não,Não,Sim,Não,Não
+C1758,79,Feminino,65,DSL,Mensal,103.89,6359.49,4,Não,Sim,Não,Sim,Não
+C1759,49,Masculino,54,DSL,Mensal,87.1,4690.06,1,Sim,Sim,Não,Sim,Não
+C1760,54,Masculino,52,Fibra,Mensal,89.7,4278.16,4,Sim,Sim,Sim,,Não
+C1761,29,Masculino,3,DSL,Mensal,56.3,180.5,1,Sim,Sim,Não,Sim,Não
+C1762,66,Masculino,41,Fibra,Mensal,107.93,4618.07,3,Não,Não,Não,Não,Sim
+C1763,72,Masculino,6,DSL,Anual,92.54,604.5,2,Sim,Sim,Não,Sim,Não
+C1764,30,Feminino,25,Fibra,Mensal,31.26,811.74,1,Não,Não,Sim,Sim,Sim
+C1765,40,Masculino,13,Não tem,Anual,60.78,859.74,2,Não,Sim,Não,Sim,Sim
+C1766,42,Masculino,8,Fibra,Mensal,108.64,878.6,1,Não,Sim,Sim,Sim,Sim
+C1767,52,Feminino,21,Fibra,Mensal,24.72,529.53,1,Não,Não,Sim,Sim,Não
+C1768,58,Masculino,68,Fibra,Mensal,116.14,8650.9,1,Sim,Não,Não,Não,Não
+C1769,47,Feminino,25,Fibra,Anual,87.92,2260.48,1,Sim,Sim,Sim,Não,Não
+C1770,34,Feminino,68,DSL,Mensal,83.14,5122.98,1,Não,Sim,Sim,Sim,Não
+C1771,66,Feminino,45,Fibra,Anual,47.06,2212.49,2,Não,Sim,Sim,Não,Não
+C1772,79,Masculino,60,Não tem,Mensal,44.88,2911.17,1,Sim,Sim,Sim,Não,Não
+C1773,37,Masculino,12,Fibra,Anual,114.21,1451.54,2,Sim,Não,Sim,Sim,Não
+C1774,65,Masculino,32,Fibra,Mensal,49.83,1621.3,3,Não,Não,Não,Não,Não
+C1775,42,Feminino,13,Fibra,Anual,97.55,1311.6,4,Sim,Sim,,Não,Não
+C1776,39,Masculino,31,Fibra,Mensal,59.31,2018.86,1,Não,Não,Sim,Não,Não
+C1777,30,Feminino,20,Fibra,Bianual,33.93,623.04,4,Não,Sim,Sim,Não,Não
+C1778,76,Masculino,18,Fibra,Mensal,21.07,391.95,2,Sim,Sim,Não,Sim,Não
+C1779,36,Feminino,60,Fibra,Mensal,74.43,4272.34,3,Sim,Sim,Não,,Sim
+C1780,66,Masculino,63,Fibra,Mensal,117.58,7615.09,3,Sim,Sim,Sim,Não,Sim
+C1781,53,Masculino,6,DSL,Anual,56.91,348.81,3,Não,Sim,Não,Não,Não
+C1782,29,Masculino,32,DSL,Mensal,55.72,1659.46,4,Não,Sim,Sim,Sim,Não
+C1783,78,Feminino,43,Fibra,Anual,54.41,2202.41,2,Não,Sim,Sim,Não,Sim
+C1784,58,Feminino,2,Fibra,Mensal,72.05,147.61,1,Não,Sim,Sim,,Não
+C1785,36,Masculino,60,Não tem,Mensal,64.07,3558.37,1,Não,Não,Sim,Não,Sim
+C1786,29,Masculino,23,DSL,Mensal,107.99,2367.12,2,Sim,Sim,Sim,Sim,Não
+C1787,26,Feminino,31,DSL,Bianual,70.55,2333.69,4,Sim,Sim,Não,Não,Não
+C1788,24,Feminino,5,Fibra,Anual,70.78,341.66,1,Não,Não,,Não,Não
+C1789,45,Feminino,34,DSL,Bianual,33.84,1147.81,2,Sim,Não,Não,Não,Sim
+C1790,31,Masculino,10,DSL,Mensal,118.27,1287.05,1,Sim,Não,Sim,Não,Sim
+C1791,48,Feminino,2,DSL,Anual,45.0,85.09,3,Não,Sim,Sim,Não,Não
+C1792,69,Masculino,11,Não tem,Anual,27.34,294.1,1,Não,Sim,Não,Não,Sim
+C1793,36,Feminino,50,Fibra,Mensal,86.31,4407.38,4,Não,Sim,Não,Não,Não
+C1794,75,Masculino,31,Fibra,Anual,79.54,2591.66,2,Não,Sim,Sim,Não,Não
+C1795,64,Feminino,56,DSL,Bianual,61.51,3721.26,4,Sim,Não,Não,Não,Sim
+C1796,33,Feminino,9,Não tem,Anual,62.22,606.51,2,Não,Sim,Sim,Sim,Sim
+C1797,70,Feminino,21,Fibra,Anual,98.51,2183.17,3,Sim,Sim,Sim,Não,Não
+C1798,22,Feminino,28,Fibra,Mensal,39.57,1047.76,2,Não,Sim,Sim,Não,Sim
+C1799,52,Feminino,62,Fibra,Mensal,102.03,5724.66,1,Não,Sim,Sim,Não,Sim
+C1800,29,Masculino,7,Fibra,Bianual,84.87,580.28,1,Sim,Não,Sim,Não,Não
+C1801,42,Feminino,16,DSL,Mensal,61.9,919.4,3,Não,Sim,Sim,Não,Não
+C1802,69,Feminino,4,DSL,Anual,65.8,274.27,2,Sim,Sim,Não,Não,Não
+C1803,76,Feminino,4,Fibra,Anual,45.66,188.53,3,Não,Sim,Sim,Sim,Sim
+C1804,38,Masculino,40,Fibra,Anual,95.21,3461.05,1,Não,Sim,Não,Não,Não
+C1805,53,Feminino,17,Fibra,Bianual,71.29,1293.52,4,Não,Sim,Sim,Sim,Não
+C1806,70,Masculino,52,Fibra,Mensal,52.09,2572.57,3,Não,Sim,Não,Sim,Não
+C1807,40,Feminino,52,DSL,Mensal,79.61,4083.61,4,Sim,Sim,Não,Não,Não
+C1808,33,Feminino,36,Não tem,Mensal,119.57,4449.09,4,Não,Não,Sim,Não,Não
+C1809,74,Masculino,38,Não tem,Mensal,63.53,2380.06,2,Não,Não,Sim,Não,Não
+C1810,56,Feminino,50,Fibra,Mensal,112.07,5537.7,3,Sim,Não,Não,Sim,Sim
+C1811,62,Masculino,63,Não tem,Mensal,54.5,3135.22,4,Não,Não,Não,Sim,Não
+C1812,70,Masculino,63,DSL,Anual,25.47,1572.98,4,Não,Sim,,Não,Não
+C1813,59,Feminino,62,DSL,Bianual,40.42,2638.78,2,Sim,Sim,Sim,Não,Não
+C1814,75,Masculino,7,Fibra,Mensal,61.87,469.05,2,Não,Sim,Não,Sim,Sim
+C1815,56,Feminino,27,Fibra,Mensal,41.96,1113.32,1,Sim,Não,Sim,,Sim
+C1816,31,Feminino,14,Fibra,Bianual,20.02,276.0,4,Não,Não,Não,Não,Não
+C1817,48,Masculino,71,Fibra,Mensal,111.5,8237.32,1,Sim,Não,Sim,Não,Não
+C1818,75,Masculino,5,Fibra,Mensal,104.39,568.17,4,Não,Sim,Sim,Não,Não
+C1819,22,Masculino,55,Fibra,Mensal,94.23,4941.2,1,Não,Não,Não,Sim,Sim
+C1820,52,Masculino,2,Fibra,Mensal,36.78,72.68,2,Não,Sim,Não,Não,Sim
+C1821,40,Feminino,62,DSL,Mensal,32.04,2104.07,3,Não,Sim,Sim,Não,Não
+C1822,46,Feminino,21,Fibra,Bianual,26.76,574.29,2,Não,Sim,Não,Sim,Não
+C1823,60,Masculino,21,Fibra,Mensal,92.4,1789.28,1,Não,Sim,Não,Não,Não
+C1824,28,Feminino,10,Não tem,Mensal,112.88,1157.64,1,Sim,Sim,Não,Não,Não
+C1825,35,Feminino,58,Não tem,Mensal,63.05,3427.79,3,Não,Sim,Sim,Não,Não
+C1826,64,Feminino,39,DSL,Mensal,31.91,1247.03,4,Não,Sim,Não,Sim,Não
+C1827,29,Feminino,5,Não tem,Anual,71.24,358.27,1,Não,Sim,Não,Sim,Não
+C1828,26,Masculino,65,DSL,Anual,54.88,3835.6,1,Não,Não,Não,Sim,Não
+C1829,27,Masculino,13,Não tem,Anual,57.48,741.63,1,Não,Sim,Não,Não,Não
+C1830,75,Feminino,53,Fibra,Mensal,82.13,4160.88,3,Não,Sim,Sim,Não,Sim
+C1831,61,Masculino,45,Fibra,Bianual,91.87,3911.7,2,Não,Não,Não,Sim,Não
+C1832,34,Masculino,32,Fibra,Anual,31.06,1068.32,1,Sim,Não,Não,Não,Sim
+C1833,78,Masculino,36,Fibra,Anual,23.56,792.35,3,Não,Sim,Sim,,Não
+C1834,55,Feminino,60,Fibra,Mensal,119.43,7059.56,1,Não,Sim,Não,Não,Não
+C1835,24,Feminino,11,DSL,Mensal,43.27,446.19,4,Não,Sim,Sim,Não,Sim
+C1836,63,Feminino,63,DSL,Mensal,25.38,1686.34,3,Não,Sim,Não,Não,Não
+C1837,30,Masculino,21,DSL,Anual,38.99,814.59,1,Sim,Sim,Sim,Não,Sim
+C1838,57,Feminino,52,Fibra,Mensal,23.9,1205.8,3,Não,Não,Não,Não,Não
+C1839,59,Feminino,55,Não tem,Mensal,59.18,3164.48,1,Não,Sim,Não,Sim,Não
+C1840,26,Masculino,26,DSL,Anual,100.24,2789.83,2,Sim,Não,Não,Sim,Sim
+C1841,67,Feminino,68,Fibra,Anual,54.12,3719.74,1,Não,Não,Não,Sim,Não
+C1842,44,Feminino,34,DSL,Bianual,64.42,2285.72,3,Sim,Não,Não,Não,Sim
+C1843,75,Masculino,52,Fibra,Mensal,87.56,4914.67,4,Não,Sim,Sim,Sim,Sim
+C1844,19,Masculino,52,Fibra,Anual,70.89,3982.47,4,Sim,Não,Não,Sim,Não
+C1845,22,Masculino,29,Não tem,Mensal,106.14,2972.49,4,Não,Sim,Não,Não,Não
+C1846,46,Feminino,38,Fibra,Mensal,106.6,4417.36,1,Não,Sim,Não,Sim,Sim
+C1847,54,Feminino,42,Fibra,Mensal,20.99,797.81,2,Não,Sim,Sim,Sim,Não
+C1848,55,Feminino,21,Não tem,Mensal,97.8,2003.21,1,Não,Sim,,Sim,Não
+C1849,36,Masculino,42,DSL,Mensal,66.07,2994.6,4,Não,Não,Não,Não,Não
+C1850,25,Masculino,13,Fibra,Anual,118.88,1475.78,3,Sim,Sim,Não,Sim,Sim
+C1851,65,Feminino,64,Fibra,Mensal,68.32,4174.04,4,Sim,Sim,Sim,Não,Não
+C1852,62,Feminino,17,Fibra,Anual,118.69,1938.08,3,Não,Sim,Sim,Não,Não
+C1853,18,Masculino,9,DSL,Mensal,95.46,878.44,2,Sim,Sim,Não,Não,Não
+C1854,39,Masculino,41,Fibra,Mensal,44.86,1816.58,3,Não,Sim,Sim,Não,Não
+C1855,69,Masculino,1,Fibra,Mensal,73.84,77.19,1,Não,Não,Não,Não,Não
+C1856,34,Masculino,2,Não tem,Mensal,119.21,257.25,1,Não,Sim,Sim,Sim,Sim
+C1857,24,Feminino,60,DSL,Mensal,105.75,6566.06,1,Não,Sim,Não,Sim,Não
+C1858,42,Masculino,48,Fibra,Mensal,29.74,1343.14,3,Sim,Sim,Sim,Sim,Não
+C1859,62,Feminino,29,DSL,Mensal,90.64,2856.03,1,Não,Sim,Não,,Não
+C1860,21,Feminino,10,DSL,Mensal,54.56,519.9,1,Não,Sim,Não,Sim,Não
+C1861,53,Feminino,58,Fibra,Mensal,20.7,1116.53,1,Não,Sim,,Sim,Não
+C1862,23,Masculino,60,Fibra,Bianual,60.35,3324.05,2,Não,Não,Sim,Não,Não
+C1863,77,Masculino,21,Não tem,Mensal,43.48,924.65,3,Sim,Sim,Sim,Não,Não
+C1864,48,Masculino,28,Fibra,Anual,101.89,2632.54,3,Não,Sim,Não,Sim,Sim
+C1865,36,Masculino,34,DSL,Anual,53.73,1694.84,4,Não,Sim,Não,Não,Não
+C1866,78,Feminino,8,Fibra,Bianual,102.75,789.13,3,Não,Não,Não,Sim,Não
+C1867,61,Masculino,59,Fibra,Anual,20.06,1131.86,2,Sim,Sim,Não,Sim,Não
+C1868,71,Masculino,49,Fibra,Mensal,50.78,2540.09,3,Não,Sim,Não,Não,Não
+C1869,56,Feminino,17,Fibra,Anual,44.12,797.55,2,Não,Não,,Sim,Não
+C1870,44,Masculino,60,Fibra,Anual,43.36,2737.59,2,Sim,Sim,Sim,Sim,Não
+C1871,27,Feminino,45,Fibra,Mensal,26.82,1149.57,3,Não,Sim,Sim,Não,Não
+C1872,43,Feminino,69,Não tem,Mensal,38.71,2534.94,4,Não,Sim,Não,Não,Não
+C1873,36,Feminino,32,Não tem,Mensal,75.55,2642.82,1,Não,Sim,Não,Não,Não
+C1874,56,Feminino,44,DSL,Anual,49.14,1949.51,1,Não,Sim,Sim,Sim,Não
+C1875,79,Feminino,65,Não tem,Anual,61.74,4317.87,3,Sim,Sim,Não,Não,Sim
+C1876,20,Feminino,8,Fibra,Mensal,57.69,433.8,3,Não,Sim,Não,Não,Sim
+C1877,62,Feminino,43,Não tem,Mensal,107.59,5040.23,2,Não,Sim,Não,Não,Não
+C1878,30,Feminino,1,Fibra,Mensal,110.53,107.04,3,Não,Sim,Sim,Não,Sim
+C1879,67,Masculino,51,Não tem,Mensal,69.3,3492.14,2,Não,Não,Sim,Não,Não
+C1880,45,Masculino,24,Não tem,Bianual,53.02,1325.19,4,Não,Não,Não,Sim,Sim
+C1881,79,Masculino,24,DSL,Mensal,30.68,749.23,3,Sim,Não,Não,Não,Não
+C1882,75,Masculino,17,Não tem,Mensal,115.34,1889.38,1,Não,Sim,Não,Não,Sim
+C1883,37,Feminino,5,DSL,Mensal,26.02,131.5,1,Não,Sim,Sim,Não,Não
+C1884,45,Masculino,20,Fibra,Anual,49.77,1041.33,3,Não,Sim,Sim,Não,Não
+C1885,25,Feminino,21,Fibra,Mensal,49.81,950.27,2,Não,Sim,Não,Não,Não
+C1886,78,Masculino,58,DSL,Anual,52.04,2723.25,1,Não,Não,Não,,Não
+C1887,58,Masculino,31,Fibra,Mensal,36.43,1119.86,2,Não,Sim,Não,Não,Não
+C1888,56,Masculino,11,DSL,Mensal,98.32,1001.88,3,Sim,Sim,Não,Não,Não
+C1889,18,Feminino,52,Não tem,Mensal,32.25,1732.12,3,Não,Sim,Sim,Não,Sim
+C1890,20,Masculino,15,Fibra,Mensal,83.49,1180.73,1,Não,Sim,Não,Sim,Não
+C1891,30,Feminino,7,DSL,Mensal,32.38,223.62,3,Não,Sim,Não,,Não
+C1892,45,Feminino,28,Não tem,Bianual,27.05,711.6,4,Não,Sim,Sim,Não,Não
+C1893,79,Masculino,51,Não tem,Anual,110.94,5712.8,4,Não,Sim,,Não,Sim
+C1894,74,Masculino,58,Não tem,Bianual,39.01,2088.84,1,Não,Não,Sim,,Não
+C1895,77,Masculino,5,DSL,Mensal,102.13,461.94,4,Não,Sim,Sim,Não,Sim
+C1896,66,Feminino,5,Não tem,Bianual,74.46,338.88,2,Não,Não,Sim,Sim,Não
+C1897,42,Masculino,8,DSL,Mensal,27.79,242.52,1,Não,Não,Sim,Sim,Não
+C1898,73,Feminino,64,Fibra,Mensal,115.54,6865.53,1,Não,Sim,Sim,Não,Sim
+C1899,50,Feminino,10,Fibra,Mensal,44.7,465.64,2,Não,Não,Não,Sim,Não
+C1900,55,Masculino,38,DSL,Mensal,105.96,3678.53,4,Não,Sim,Não,Sim,Não
+C1901,70,Masculino,8,Fibra,Anual,36.88,271.92,4,Não,Não,Não,Sim,Não
+C1902,23,Feminino,25,DSL,Mensal,105.39,2639.43,4,Não,Sim,Sim,,Sim
+C1903,75,Feminino,66,DSL,Mensal,21.32,1397.23,1,Não,Sim,Sim,Não,Não
+C1904,61,Feminino,50,Fibra,Anual,71.18,3880.43,1,Sim,Sim,Não,Sim,Sim
+C1905,62,Masculino,67,DSL,Mensal,96.94,7072.82,4,Sim,Sim,Sim,Não,Não
+C1906,49,Feminino,49,DSL,Mensal,113.48,5871.47,3,Não,Não,Sim,Sim,Não
+C1907,62,Masculino,36,Fibra,Mensal,110.92,4074.66,4,Não,Sim,Não,,Não
+C1908,78,Feminino,68,Fibra,Anual,101.96,6870.83,2,Não,Sim,,Sim,Sim
+C1909,64,Feminino,41,Fibra,Anual,108.82,4333.28,1,Não,Sim,Não,Não,Não
+C1910,38,Masculino,62,Fibra,Mensal,39.92,2696.35,2,Sim,Não,Não,Não,Sim
+C1911,33,Feminino,10,Não tem,Mensal,48.42,494.17,2,Não,Sim,Sim,,Não
+C1912,71,Masculino,21,Fibra,Mensal,48.9,1043.14,1,Não,Sim,,Não,Sim
+C1913,38,Masculino,36,DSL,Anual,57.71,1966.16,3,Não,Sim,Sim,Não,Não
+C1914,28,Feminino,12,Fibra,Mensal,59.33,647.41,4,Não,Não,Não,Não,Sim
+C1915,77,Masculino,2,Fibra,Mensal,74.46,162.18,2,Sim,Sim,Sim,Sim,Sim
+C1916,54,Masculino,13,Não tem,Mensal,35.99,450.44,1,Sim,Sim,Não,Não,Sim
+C1917,53,Feminino,53,DSL,Mensal,89.12,4669.13,2,Não,Sim,Sim,Não,Não
+C1918,52,Masculino,32,Fibra,Mensal,36.76,1085.66,4,Não,Não,Não,Sim,Sim
+C1919,36,Masculino,16,Fibra,Anual,51.03,871.5,3,Não,Sim,Não,Sim,Não
+C1920,37,Masculino,32,Fibra,Mensal,70.33,2037.94,3,Sim,Sim,Não,Não,Não
+C1921,74,Feminino,32,Fibra,Mensal,99.64,3401.46,3,Sim,Sim,Não,Não,Não
+C1922,35,Masculino,11,DSL,Anual,93.95,959.1,1,Não,Não,Não,Não,Não
+C1923,64,Feminino,10,Fibra,Anual,84.55,910.87,1,Não,Não,Não,Não,Sim
+C1924,58,Feminino,15,Fibra,Mensal,35.58,558.23,3,Não,Sim,Não,Não,Não
+C1925,66,Masculino,17,Fibra,Mensal,74.7,1184.73,4,Sim,Sim,Não,Sim,Sim
+C1926,31,Masculino,40,Não tem,Mensal,28.74,1164.73,4,Não,Sim,Não,Sim,Não
+C1927,32,Masculino,18,Não tem,Bianual,57.74,1000.38,1,Sim,Sim,Não,Não,Sim
+C1928,48,Feminino,55,Fibra,Mensal,61.35,3157.11,3,Sim,Sim,Não,Não,Não
+C1929,18,Masculino,25,DSL,Bianual,23.98,642.57,4,Não,Sim,Não,Sim,Não
+C1930,70,Masculino,59,Fibra,Anual,47.4,2742.64,4,Sim,Sim,Não,Não,Não
+C1931,71,Masculino,22,Fibra,Mensal,115.56,2490.73,4,Sim,Não,Não,Não,Sim
+C1932,71,Masculino,30,DSL,Mensal,115.36,3232.31,1,Não,Sim,Não,Não,Não
+C1933,20,Masculino,44,Não tem,Mensal,55.23,2373.29,3,Não,Sim,Sim,Não,Sim
+C1934,33,Feminino,32,Não tem,Mensal,24.31,835.74,2,Não,Sim,Não,Não,Não
+C1935,40,Feminino,51,DSL,Mensal,37.91,1880.48,3,Não,Sim,Não,Sim,Não
+C1936,74,Masculino,46,Fibra,Anual,59.22,2970.16,3,Sim,Sim,Não,Não,Não
+C1937,28,Masculino,21,DSL,Bianual,114.78,2625.53,1,Sim,Sim,Não,Não,Não
+C1938,29,Masculino,32,Fibra,Mensal,34.12,1014.3,4,Não,Sim,Sim,Não,Não
+C1939,27,Masculino,39,DSL,Anual,96.35,3515.14,4,Não,Não,Não,Não,Não
+C1940,49,Feminino,12,Fibra,Mensal,30.87,397.31,1,Não,Não,Não,Não,Não
+C1941,33,Masculino,47,DSL,Mensal,118.13,5433.03,1,Sim,Sim,Não,Sim,Não
+C1942,25,Feminino,18,Fibra,Mensal,58.16,943.11,1,Não,Sim,Sim,,Não
+C1943,55,Feminino,21,Fibra,Anual,97.52,1955.3,1,Sim,Sim,Não,,Sim
+C1944,29,Masculino,13,Não tem,Bianual,54.26,719.15,1,Não,Sim,Não,Sim,Não
+C1945,41,Feminino,21,Fibra,Anual,82.77,1842.21,2,Não,Sim,Sim,Sim,Não
+C1946,45,Feminino,8,DSL,Mensal,39.2,290.61,3,Não,Não,Sim,Não,Sim
+C1947,70,Feminino,46,Fibra,Mensal,34.6,1467.63,3,Não,Não,Sim,Não,Não
+C1948,25,Feminino,7,Fibra,Mensal,113.81,863.92,3,Não,Não,Não,Sim,Não
+C1949,75,Masculino,23,Fibra,Mensal,111.76,2699.59,4,Não,Sim,Sim,Não,Sim
+C1950,45,Masculino,22,Fibra,Anual,108.75,2435.46,2,Não,Não,Sim,Não,Não
+C1951,53,Feminino,22,Não tem,Anual,82.54,1913.64,3,Sim,Não,Não,Não,Não
+C1952,43,Masculino,29,Fibra,Anual,100.83,2882.46,4,Não,Sim,Sim,Não,Não
+C1953,25,Masculino,13,Não tem,Mensal,26.9,367.78,2,Sim,Sim,Sim,Não,Não
+C1954,75,Masculino,2,DSL,Mensal,53.48,104.22,2,Não,Não,,Sim,Não
+C1955,77,Masculino,29,Fibra,Mensal,51.37,1413.48,4,Não,Sim,Não,Sim,Sim
+C1956,67,Masculino,52,DSL,Mensal,83.56,4544.14,2,Não,Sim,Não,Não,Não
+C1957,45,Feminino,27,DSL,Mensal,55.6,1477.08,4,Não,Sim,Não,Não,Não
+C1958,45,Masculino,50,DSL,Anual,34.85,1910.26,3,Sim,Sim,Não,Não,Não
+C1959,54,Masculino,23,Fibra,Anual,79.65,1776.8,4,Não,Sim,Não,Não,Não
+C1960,58,Masculino,44,Fibra,Mensal,101.44,4839.82,2,Não,Não,Sim,Não,Não
+C1961,53,Masculino,22,Não tem,Mensal,58.21,1391.51,3,Não,Sim,Sim,Não,Não
+C1962,44,Feminino,43,Não tem,Mensal,33.23,1355.12,3,Não,Sim,Não,Sim,Não
+C1963,71,Feminino,37,Não tem,Mensal,39.67,1555.34,1,Não,Sim,Sim,Sim,Não
+C1964,34,Feminino,61,Fibra,Anual,43.75,2633.03,1,Não,Sim,Não,Não,Não
+C1965,26,Feminino,56,DSL,Mensal,49.99,3033.21,2,Sim,Sim,Não,Sim,Não
+C1966,50,Masculino,3,Fibra,Mensal,84.28,250.32,4,Sim,Sim,Sim,Sim,Não
+C1967,70,Feminino,63,Fibra,Mensal,80.09,5292.21,4,Não,Sim,,Não,Sim
+C1968,37,Masculino,19,Fibra,Anual,89.61,1691.34,2,Não,Sim,Sim,Não,Não
+C1969,30,Masculino,23,DSL,Mensal,56.25,1223.32,3,Não,Sim,,Não,Não
+C1970,45,Masculino,29,Fibra,Mensal,102.4,2791.04,2,Não,Sim,Não,Sim,Não
+C1971,65,Masculino,30,Fibra,Mensal,40.41,1194.22,2,Não,Sim,Não,Sim,Não
+C1972,46,Masculino,39,Não tem,Anual,66.9,2742.42,3,Não,Sim,Sim,Sim,Não
+C1973,30,Feminino,25,Fibra,Bianual,100.09,2554.83,4,Sim,Não,Não,Não,Sim
+C1974,63,Feminino,8,Fibra,Mensal,38.02,315.63,2,Sim,Sim,Não,Sim,Não
+C1975,52,Feminino,58,Fibra,Anual,30.99,1719.17,4,Não,Sim,Sim,Não,Não
+C1976,78,Feminino,16,Não tem,Bianual,108.37,1727.48,2,Não,Sim,Não,Não,Sim
+C1977,23,Masculino,1,DSL,Bianual,54.29,49.34,3,Não,Sim,Não,Não,Sim
+C1978,35,Feminino,5,Fibra,Anual,88.39,470.02,3,Não,Não,Sim,Sim,Não
+C1979,68,Masculino,3,Não tem,Anual,22.53,74.21,1,Sim,Sim,Não,Não,Não
+C1980,22,Feminino,65,Não tem,Mensal,89.0,5677.26,3,Não,Sim,Sim,Não,Não
+C1981,64,Masculino,4,Fibra,Anual,51.61,186.25,1,Sim,Sim,Não,Não,Não
+C1982,42,Masculino,64,DSL,Mensal,25.57,1528.4,2,Não,Sim,Sim,Não,Não
+C1983,19,Feminino,10,DSL,Anual,80.98,834.5,4,Não,Não,Não,Sim,Não
+C1984,27,Masculino,21,DSL,Mensal,44.08,946.43,3,Não,Sim,Não,Não,Não
+C1985,73,Masculino,46,Fibra,Anual,58.68,2854.69,3,Não,Sim,Não,Sim,Sim
+C1986,47,Feminino,27,Não tem,Anual,28.06,720.33,3,Sim,Sim,Não,Sim,Não
+C1987,67,Masculino,66,DSL,Mensal,34.72,2412.34,2,Não,Sim,Não,Sim,Não
+C1988,76,Feminino,41,Fibra,Anual,49.8,2118.57,1,Não,Não,Não,Não,Não
+C1989,62,Feminino,13,Fibra,Mensal,28.98,363.39,2,Não,Sim,Não,Não,Não
+C1990,22,Feminino,9,Fibra,Anual,111.08,1008.82,4,Não,Sim,Não,Sim,Não
+C1991,72,Masculino,36,Fibra,Mensal,20.6,689.28,2,Não,Sim,Não,,Sim
+C1992,73,Masculino,58,DSL,Mensal,68.39,3928.99,4,Não,Sim,Não,Sim,Sim
+C1993,50,Masculino,54,Fibra,Bianual,32.32,1878.34,3,Sim,Sim,Não,Não,Sim
+C1994,71,Feminino,12,Fibra,Mensal,50.77,599.64,4,Não,Sim,Não,Sim,Sim
+C1995,18,Masculino,14,DSL,Anual,112.61,1683.61,4,Sim,Sim,Não,Sim,Não
+C1996,35,Feminino,34,Fibra,Mensal,36.17,1251.98,1,Não,Sim,Sim,Não,Sim
+C1997,49,Feminino,53,Não tem,Mensal,116.58,5797.98,4,Não,Sim,Sim,Sim,Sim
+C1998,64,Masculino,20,Fibra,Mensal,40.58,824.77,4,Não,Não,Sim,Não,Não
+C1999,66,Feminino,16,Fibra,Mensal,94.16,1508.36,2,Não,Sim,Não,Sim,Não
